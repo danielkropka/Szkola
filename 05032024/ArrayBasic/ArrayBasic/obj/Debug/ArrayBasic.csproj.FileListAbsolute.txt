@@ -1,0 +1,7 @@
+D:\Github\Szkola\05032024\ArrayBasic\ArrayBasic\bin\Debug\ArrayBasic.exe.config
+D:\Github\Szkola\05032024\ArrayBasic\ArrayBasic\bin\Debug\ArrayBasic.exe
+D:\Github\Szkola\05032024\ArrayBasic\ArrayBasic\bin\Debug\ArrayBasic.pdb
+D:\Github\Szkola\05032024\ArrayBasic\ArrayBasic\obj\Debug\ArrayBasic.csproj.AssemblyReference.cache
+D:\Github\Szkola\05032024\ArrayBasic\ArrayBasic\obj\Debug\ArrayBasic.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\05032024\ArrayBasic\ArrayBasic\obj\Debug\ArrayBasic.exe
+D:\Github\Szkola\05032024\ArrayBasic\ArrayBasic\obj\Debug\ArrayBasic.pdb

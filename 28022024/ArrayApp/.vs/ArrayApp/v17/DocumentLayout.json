@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\28022024\\ArrayApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9604350B-3FC9-45C8-8D75-A66B7DC16031}|ArrayApp\\ArrayApp.csproj|d:\\github\\szkola\\28022024\\arrayapp\\arrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9604350B-3FC9-45C8-8D75-A66B7DC16031}|ArrayApp\\ArrayApp.csproj|solutionrelative:arrayapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\28022024\\ArrayApp\\ArrayApp\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayApp\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\28022024\\ArrayApp\\ArrayApp\\Program.cs",
+              "RelativeToolTip": "ArrayApp\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:45:11.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

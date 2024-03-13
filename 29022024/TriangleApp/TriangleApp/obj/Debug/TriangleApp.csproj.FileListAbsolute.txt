@@ -1,0 +1,7 @@
+D:\Github\Szkola\29022024\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe.config
+D:\Github\Szkola\29022024\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe
+D:\Github\Szkola\29022024\TriangleApp\TriangleApp\bin\Debug\TriangleApp.pdb
+D:\Github\Szkola\29022024\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\29022024\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\29022024\TriangleApp\TriangleApp\obj\Debug\TriangleApp.exe
+D:\Github\Szkola\29022024\TriangleApp\TriangleApp\obj\Debug\TriangleApp.pdb

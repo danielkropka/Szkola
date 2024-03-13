@@ -1,0 +1,7 @@
+D:\Github\Szkola\06032024\stomia\stomia\bin\Debug\stomia.exe.config
+D:\Github\Szkola\06032024\stomia\stomia\bin\Debug\stomia.exe
+D:\Github\Szkola\06032024\stomia\stomia\bin\Debug\stomia.pdb
+D:\Github\Szkola\06032024\stomia\stomia\obj\Debug\stomia.csproj.AssemblyReference.cache
+D:\Github\Szkola\06032024\stomia\stomia\obj\Debug\stomia.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\06032024\stomia\stomia\obj\Debug\stomia.exe
+D:\Github\Szkola\06032024\stomia\stomia\obj\Debug\stomia.pdb

@@ -1,0 +1,7 @@
+D:\Github\Szkola\28022024\BubbleSortApp\BubbleSortApp\bin\Debug\BubbleSortApp.exe.config
+D:\Github\Szkola\28022024\BubbleSortApp\BubbleSortApp\bin\Debug\BubbleSortApp.exe
+D:\Github\Szkola\28022024\BubbleSortApp\BubbleSortApp\bin\Debug\BubbleSortApp.pdb
+D:\Github\Szkola\28022024\BubbleSortApp\BubbleSortApp\obj\Debug\BubbleSortApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\28022024\BubbleSortApp\BubbleSortApp\obj\Debug\BubbleSortApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\28022024\BubbleSortApp\BubbleSortApp\obj\Debug\BubbleSortApp.exe
+D:\Github\Szkola\28022024\BubbleSortApp\BubbleSortApp\obj\Debug\BubbleSortApp.pdb

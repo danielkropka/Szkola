@@ -1,0 +1,7 @@
+D:\Github\Szkola\07032024\MultiDimArray\MultiDimArray\bin\Debug\MultiDimArray.exe.config
+D:\Github\Szkola\07032024\MultiDimArray\MultiDimArray\bin\Debug\MultiDimArray.exe
+D:\Github\Szkola\07032024\MultiDimArray\MultiDimArray\bin\Debug\MultiDimArray.pdb
+D:\Github\Szkola\07032024\MultiDimArray\MultiDimArray\obj\Debug\MultiDimArray.csproj.AssemblyReference.cache
+D:\Github\Szkola\07032024\MultiDimArray\MultiDimArray\obj\Debug\MultiDimArray.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\07032024\MultiDimArray\MultiDimArray\obj\Debug\MultiDimArray.exe
+D:\Github\Szkola\07032024\MultiDimArray\MultiDimArray\obj\Debug\MultiDimArray.pdb

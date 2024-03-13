@@ -1,0 +1,7 @@
+D:\Github\Szkola\05032024\ArrayAppPowtorzenie\ArrayAppPowtorzenie\bin\Debug\ArrayAppPowtorzenie.exe.config
+D:\Github\Szkola\05032024\ArrayAppPowtorzenie\ArrayAppPowtorzenie\bin\Debug\ArrayAppPowtorzenie.exe
+D:\Github\Szkola\05032024\ArrayAppPowtorzenie\ArrayAppPowtorzenie\bin\Debug\ArrayAppPowtorzenie.pdb
+D:\Github\Szkola\05032024\ArrayAppPowtorzenie\ArrayAppPowtorzenie\obj\Debug\ArrayAppPowtorzenie.csproj.AssemblyReference.cache
+D:\Github\Szkola\05032024\ArrayAppPowtorzenie\ArrayAppPowtorzenie\obj\Debug\ArrayAppPowtorzenie.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\05032024\ArrayAppPowtorzenie\ArrayAppPowtorzenie\obj\Debug\ArrayAppPowtorzenie.exe
+D:\Github\Szkola\05032024\ArrayAppPowtorzenie\ArrayAppPowtorzenie\obj\Debug\ArrayAppPowtorzenie.pdb

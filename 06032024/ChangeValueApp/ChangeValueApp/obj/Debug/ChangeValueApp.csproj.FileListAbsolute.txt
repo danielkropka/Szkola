@@ -1,0 +1,7 @@
+D:\Github\Szkola\06032024\ChangeValueApp\ChangeValueApp\bin\Debug\ChangeValueApp.exe.config
+D:\Github\Szkola\06032024\ChangeValueApp\ChangeValueApp\bin\Debug\ChangeValueApp.exe
+D:\Github\Szkola\06032024\ChangeValueApp\ChangeValueApp\bin\Debug\ChangeValueApp.pdb
+D:\Github\Szkola\06032024\ChangeValueApp\ChangeValueApp\obj\Debug\ChangeValueApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\06032024\ChangeValueApp\ChangeValueApp\obj\Debug\ChangeValueApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\06032024\ChangeValueApp\ChangeValueApp\obj\Debug\ChangeValueApp.exe
+D:\Github\Szkola\06032024\ChangeValueApp\ChangeValueApp\obj\Debug\ChangeValueApp.pdb

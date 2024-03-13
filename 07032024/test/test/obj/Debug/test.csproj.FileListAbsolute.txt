@@ -1,0 +1,7 @@
+D:\Github\Szkola\07032024\test\test\bin\Debug\test.exe.config
+D:\Github\Szkola\07032024\test\test\bin\Debug\test.exe
+D:\Github\Szkola\07032024\test\test\bin\Debug\test.pdb
+D:\Github\Szkola\07032024\test\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\Github\Szkola\07032024\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\07032024\test\test\obj\Debug\test.exe
+D:\Github\Szkola\07032024\test\test\obj\Debug\test.pdb

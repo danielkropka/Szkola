@@ -1,0 +1,7 @@
+D:\Github\Szkola\28022024\FindElementApp\FindElementApp\bin\Debug\FindElementApp.exe.config
+D:\Github\Szkola\28022024\FindElementApp\FindElementApp\bin\Debug\FindElementApp.exe
+D:\Github\Szkola\28022024\FindElementApp\FindElementApp\bin\Debug\FindElementApp.pdb
+D:\Github\Szkola\28022024\FindElementApp\FindElementApp\obj\Debug\FindElementApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\28022024\FindElementApp\FindElementApp\obj\Debug\FindElementApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\28022024\FindElementApp\FindElementApp\obj\Debug\FindElementApp.exe
+D:\Github\Szkola\28022024\FindElementApp\FindElementApp\obj\Debug\FindElementApp.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\07032024\\KeysApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{181EF19E-D470-48A1-9D3A-3E15EE18A8AD}|KeysApp\\KeysApp.csproj|d:\\github\\szkola\\07032024\\keysapp\\keysapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{181EF19E-D470-48A1-9D3A-3E15EE18A8AD}|KeysApp\\KeysApp.csproj|solutionrelative:keysapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\07032024\\KeysApp\\KeysApp\\Program.cs",
+              "RelativeDocumentMoniker": "KeysApp\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\07032024\\KeysApp\\KeysApp\\Program.cs",
+              "RelativeToolTip": "KeysApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:46:14.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

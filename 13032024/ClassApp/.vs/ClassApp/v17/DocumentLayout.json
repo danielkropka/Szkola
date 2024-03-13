@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\13032024\\ClassApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E923F3-1EBC-47FE-B74D-C060619E5D34}|ClassApp\\ClassApp.csproj|d:\\github\\szkola\\13032024\\classapp\\classapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E923F3-1EBC-47FE-B74D-C060619E5D34}|ClassApp\\ClassApp.csproj|solutionrelative:classapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\13032024\\ClassApp\\ClassApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClassApp\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\13032024\\ClassApp\\ClassApp\\Program.cs",
+              "RelativeToolTip": "ClassApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T09:31:10.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

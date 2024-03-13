@@ -1,0 +1,7 @@
+D:\Github\Szkola\28022024\GetMaxMinArrayApp\GetMaxMinArrayApp\bin\Debug\GetMaxMinArrayApp.exe.config
+D:\Github\Szkola\28022024\GetMaxMinArrayApp\GetMaxMinArrayApp\bin\Debug\GetMaxMinArrayApp.exe
+D:\Github\Szkola\28022024\GetMaxMinArrayApp\GetMaxMinArrayApp\bin\Debug\GetMaxMinArrayApp.pdb
+D:\Github\Szkola\28022024\GetMaxMinArrayApp\GetMaxMinArrayApp\obj\Debug\GetMaxMinArrayApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\28022024\GetMaxMinArrayApp\GetMaxMinArrayApp\obj\Debug\GetMaxMinArrayApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\28022024\GetMaxMinArrayApp\GetMaxMinArrayApp\obj\Debug\GetMaxMinArrayApp.exe
+D:\Github\Szkola\28022024\GetMaxMinArrayApp\GetMaxMinArrayApp\obj\Debug\GetMaxMinArrayApp.pdb

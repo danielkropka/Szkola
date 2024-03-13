@@ -1,0 +1,7 @@
+D:\Github\Szkola\07032024\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Github\Szkola\07032024\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Github\Szkola\07032024\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Github\Szkola\07032024\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Github\Szkola\07032024\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\07032024\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Github\Szkola\07032024\Arrays\Arrays\obj\Debug\Arrays.pdb

@@ -1,0 +1,7 @@
+D:\Github\Szkola\28022024\PaternApp\PaternApp\bin\Debug\PaternApp.exe.config
+D:\Github\Szkola\28022024\PaternApp\PaternApp\bin\Debug\PaternApp.exe
+D:\Github\Szkola\28022024\PaternApp\PaternApp\bin\Debug\PaternApp.pdb
+D:\Github\Szkola\28022024\PaternApp\PaternApp\obj\Debug\PaternApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\28022024\PaternApp\PaternApp\obj\Debug\PaternApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\28022024\PaternApp\PaternApp\obj\Debug\PaternApp.exe
+D:\Github\Szkola\28022024\PaternApp\PaternApp\obj\Debug\PaternApp.pdb

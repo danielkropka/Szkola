@@ -1,0 +1,7 @@
+D:\Github\Szkola\07032024\powtorzeniewojtek\powtorzeniewojtek\bin\Debug\powtorzeniewojtek.exe.config
+D:\Github\Szkola\07032024\powtorzeniewojtek\powtorzeniewojtek\bin\Debug\powtorzeniewojtek.exe
+D:\Github\Szkola\07032024\powtorzeniewojtek\powtorzeniewojtek\bin\Debug\powtorzeniewojtek.pdb
+D:\Github\Szkola\07032024\powtorzeniewojtek\powtorzeniewojtek\obj\Debug\powtorzeniewojtek.csproj.AssemblyReference.cache
+D:\Github\Szkola\07032024\powtorzeniewojtek\powtorzeniewojtek\obj\Debug\powtorzeniewojtek.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\07032024\powtorzeniewojtek\powtorzeniewojtek\obj\Debug\powtorzeniewojtek.exe
+D:\Github\Szkola\07032024\powtorzeniewojtek\powtorzeniewojtek\obj\Debug\powtorzeniewojtek.pdb

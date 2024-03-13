@@ -1,0 +1,7 @@
+D:\Github\Szkola\13032024\CarApp2\CarApp2\bin\Debug\CarApp2.exe.config
+D:\Github\Szkola\13032024\CarApp2\CarApp2\bin\Debug\CarApp2.exe
+D:\Github\Szkola\13032024\CarApp2\CarApp2\bin\Debug\CarApp2.pdb
+D:\Github\Szkola\13032024\CarApp2\CarApp2\obj\Debug\CarApp2.csproj.AssemblyReference.cache
+D:\Github\Szkola\13032024\CarApp2\CarApp2\obj\Debug\CarApp2.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\13032024\CarApp2\CarApp2\obj\Debug\CarApp2.exe
+D:\Github\Szkola\13032024\CarApp2\CarApp2\obj\Debug\CarApp2.pdb

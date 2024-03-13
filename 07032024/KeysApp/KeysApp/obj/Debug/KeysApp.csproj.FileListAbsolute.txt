@@ -1,0 +1,7 @@
+D:\Github\Szkola\07032024\KeysApp\KeysApp\bin\Debug\KeysApp.exe.config
+D:\Github\Szkola\07032024\KeysApp\KeysApp\bin\Debug\KeysApp.exe
+D:\Github\Szkola\07032024\KeysApp\KeysApp\bin\Debug\KeysApp.pdb
+D:\Github\Szkola\07032024\KeysApp\KeysApp\obj\Debug\KeysApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\07032024\KeysApp\KeysApp\obj\Debug\KeysApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\07032024\KeysApp\KeysApp\obj\Debug\KeysApp.exe
+D:\Github\Szkola\07032024\KeysApp\KeysApp\obj\Debug\KeysApp.pdb

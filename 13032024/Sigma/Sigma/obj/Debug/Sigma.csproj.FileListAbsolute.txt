@@ -1,0 +1,7 @@
+D:\Github\Szkola\13032024\Sigma\Sigma\bin\Debug\Sigma.exe.config
+D:\Github\Szkola\13032024\Sigma\Sigma\bin\Debug\Sigma.exe
+D:\Github\Szkola\13032024\Sigma\Sigma\bin\Debug\Sigma.pdb
+D:\Github\Szkola\13032024\Sigma\Sigma\obj\Debug\Sigma.csproj.AssemblyReference.cache
+D:\Github\Szkola\13032024\Sigma\Sigma\obj\Debug\Sigma.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\13032024\Sigma\Sigma\obj\Debug\Sigma.exe
+D:\Github\Szkola\13032024\Sigma\Sigma\obj\Debug\Sigma.pdb

@@ -1,0 +1,7 @@
+D:\Github\Szkola\13032024\SchoolGroupApp\SchoolGroupApp\bin\Debug\SchoolGroupApp.exe.config
+D:\Github\Szkola\13032024\SchoolGroupApp\SchoolGroupApp\bin\Debug\SchoolGroupApp.exe
+D:\Github\Szkola\13032024\SchoolGroupApp\SchoolGroupApp\bin\Debug\SchoolGroupApp.pdb
+D:\Github\Szkola\13032024\SchoolGroupApp\SchoolGroupApp\obj\Debug\SchoolGroupApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\13032024\SchoolGroupApp\SchoolGroupApp\obj\Debug\SchoolGroupApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\13032024\SchoolGroupApp\SchoolGroupApp\obj\Debug\SchoolGroupApp.exe
+D:\Github\Szkola\13032024\SchoolGroupApp\SchoolGroupApp\obj\Debug\SchoolGroupApp.pdb

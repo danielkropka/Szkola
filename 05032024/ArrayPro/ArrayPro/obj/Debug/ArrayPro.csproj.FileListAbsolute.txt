@@ -1,0 +1,7 @@
+D:\Github\Szkola\05032024\ArrayPro\ArrayPro\obj\Debug\ArrayPro.csproj.AssemblyReference.cache
+D:\Github\Szkola\05032024\ArrayPro\ArrayPro\obj\Debug\ArrayPro.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\05032024\ArrayPro\ArrayPro\bin\Debug\ArrayPro.exe.config
+D:\Github\Szkola\05032024\ArrayPro\ArrayPro\bin\Debug\ArrayPro.exe
+D:\Github\Szkola\05032024\ArrayPro\ArrayPro\bin\Debug\ArrayPro.pdb
+D:\Github\Szkola\05032024\ArrayPro\ArrayPro\obj\Debug\ArrayPro.exe
+D:\Github\Szkola\05032024\ArrayPro\ArrayPro\obj\Debug\ArrayPro.pdb

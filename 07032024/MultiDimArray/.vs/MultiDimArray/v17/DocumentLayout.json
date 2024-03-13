@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\07032024\\MultiDimArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CC9D1B-65FB-40BA-98E9-873FAC529AF3}|MultiDimArray\\MultiDimArray.csproj|d:\\github\\szkola\\07032024\\multidimarray\\multidimarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CC9D1B-65FB-40BA-98E9-873FAC529AF3}|MultiDimArray\\MultiDimArray.csproj|solutionrelative:multidimarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\07032024\\MultiDimArray\\MultiDimArray\\Program.cs",
+              "RelativeDocumentMoniker": "MultiDimArray\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\07032024\\MultiDimArray\\MultiDimArray\\Program.cs",
+              "RelativeToolTip": "MultiDimArray\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwDcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:02:04.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

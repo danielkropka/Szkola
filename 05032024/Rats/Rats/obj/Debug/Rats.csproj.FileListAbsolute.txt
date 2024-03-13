@@ -1,0 +1,7 @@
+D:\Github\Szkola\05032024\Rats\Rats\bin\Debug\Rats.exe.config
+D:\Github\Szkola\05032024\Rats\Rats\bin\Debug\Rats.exe
+D:\Github\Szkola\05032024\Rats\Rats\bin\Debug\Rats.pdb
+D:\Github\Szkola\05032024\Rats\Rats\obj\Debug\Rats.csproj.AssemblyReference.cache
+D:\Github\Szkola\05032024\Rats\Rats\obj\Debug\Rats.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\05032024\Rats\Rats\obj\Debug\Rats.exe
+D:\Github\Szkola\05032024\Rats\Rats\obj\Debug\Rats.pdb
