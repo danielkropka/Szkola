@@ -1,0 +1,7 @@
+D:\Github\Szkola\14032024\PersonApp\PersonApp\bin\Debug\PersonApp.exe.config
+D:\Github\Szkola\14032024\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+D:\Github\Szkola\14032024\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+D:\Github\Szkola\14032024\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\14032024\PersonApp\PersonApp\obj\Debug\PersonApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\14032024\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+D:\Github\Szkola\14032024\PersonApp\PersonApp\obj\Debug\PersonApp.pdb

@@ -1,0 +1,7 @@
+D:\Github\Szkola\14032024\bmiApp\bmiApp\bin\Debug\bmiApp.exe.config
+D:\Github\Szkola\14032024\bmiApp\bmiApp\bin\Debug\bmiApp.exe
+D:\Github\Szkola\14032024\bmiApp\bmiApp\bin\Debug\bmiApp.pdb
+D:\Github\Szkola\14032024\bmiApp\bmiApp\obj\Debug\bmiApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\14032024\bmiApp\bmiApp\obj\Debug\bmiApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\14032024\bmiApp\bmiApp\obj\Debug\bmiApp.exe
+D:\Github\Szkola\14032024\bmiApp\bmiApp\obj\Debug\bmiApp.pdb

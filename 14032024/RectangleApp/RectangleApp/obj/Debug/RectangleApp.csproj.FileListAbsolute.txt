@@ -1,0 +1,7 @@
+D:\Github\Szkola\14032024\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe.config
+D:\Github\Szkola\14032024\RectangleApp\RectangleApp\bin\Debug\RectangleApp.exe
+D:\Github\Szkola\14032024\RectangleApp\RectangleApp\bin\Debug\RectangleApp.pdb
+D:\Github\Szkola\14032024\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\14032024\RectangleApp\RectangleApp\obj\Debug\RectangleApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\14032024\RectangleApp\RectangleApp\obj\Debug\RectangleApp.exe
+D:\Github\Szkola\14032024\RectangleApp\RectangleApp\obj\Debug\RectangleApp.pdb
