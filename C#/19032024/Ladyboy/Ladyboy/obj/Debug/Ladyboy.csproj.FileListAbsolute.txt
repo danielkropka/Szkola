@@ -1,0 +1,7 @@
+D:\Github\Szkola\19032024\Ladyboy\Ladyboy\bin\Debug\Ladyboy.exe.config
+D:\Github\Szkola\19032024\Ladyboy\Ladyboy\bin\Debug\Ladyboy.exe
+D:\Github\Szkola\19032024\Ladyboy\Ladyboy\bin\Debug\Ladyboy.pdb
+D:\Github\Szkola\19032024\Ladyboy\Ladyboy\obj\Debug\Ladyboy.csproj.AssemblyReference.cache
+D:\Github\Szkola\19032024\Ladyboy\Ladyboy\obj\Debug\Ladyboy.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\19032024\Ladyboy\Ladyboy\obj\Debug\Ladyboy.exe
+D:\Github\Szkola\19032024\Ladyboy\Ladyboy\obj\Debug\Ladyboy.pdb

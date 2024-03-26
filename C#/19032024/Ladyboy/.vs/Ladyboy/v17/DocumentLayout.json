@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\19032024\\Ladyboy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AA723E-2445-4385-AB3F-0EA4D9B336D1}|Ladyboy\\Ladyboy.csproj|d:\\github\\szkola\\19032024\\ladyboy\\ladyboy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AA723E-2445-4385-AB3F-0EA4D9B336D1}|Ladyboy\\Ladyboy.csproj|solutionrelative:ladyboy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\19032024\\Ladyboy\\Ladyboy\\Program.cs",
+              "RelativeDocumentMoniker": "Ladyboy\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\19032024\\Ladyboy\\Ladyboy\\Program.cs",
+              "RelativeToolTip": "Ladyboy\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:16:46.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

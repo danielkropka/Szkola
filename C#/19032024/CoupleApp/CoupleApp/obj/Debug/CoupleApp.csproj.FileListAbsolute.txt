@@ -1,0 +1,7 @@
+D:\Github\Szkola\19032024\CoupleApp\CoupleApp\bin\Debug\CoupleApp.exe.config
+D:\Github\Szkola\19032024\CoupleApp\CoupleApp\bin\Debug\CoupleApp.exe
+D:\Github\Szkola\19032024\CoupleApp\CoupleApp\bin\Debug\CoupleApp.pdb
+D:\Github\Szkola\19032024\CoupleApp\CoupleApp\obj\Debug\CoupleApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\19032024\CoupleApp\CoupleApp\obj\Debug\CoupleApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\19032024\CoupleApp\CoupleApp\obj\Debug\CoupleApp.exe
+D:\Github\Szkola\19032024\CoupleApp\CoupleApp\obj\Debug\CoupleApp.pdb

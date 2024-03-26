@@ -1,0 +1,7 @@
+D:\Github\Szkola\19032024\TrinomialApp\TrinomialApp\bin\Debug\TrinomialApp.exe.config
+D:\Github\Szkola\19032024\TrinomialApp\TrinomialApp\bin\Debug\TrinomialApp.exe
+D:\Github\Szkola\19032024\TrinomialApp\TrinomialApp\bin\Debug\TrinomialApp.pdb
+D:\Github\Szkola\19032024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\19032024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\19032024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.exe
+D:\Github\Szkola\19032024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.pdb
