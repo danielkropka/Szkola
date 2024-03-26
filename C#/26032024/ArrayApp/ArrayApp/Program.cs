@@ -6,45 +6,34 @@ using System.Threading.Tasks;
 
 namespace ArrayApp
 {
+    delegate int ArrayDelegate(int wanted);
+
     class MyArray
     {
-        int n;
         int[] t;
+        public int[] T => t;
 
-        public int N
+        public MyArray(int n = 100) => t = new int[n];
+
+        public MyArray(ArrayDelegate init, int n = 100)
+            : this(n)
         {
-            get => n;
-            set
-            {
-                if (n == value || value < 0)
-                    return;
-                n = value;
-            }
+            for (int i = 0; i < T.Length; i++)
+                T[i] = init(i);
         }
 
-        public MyArray()
-        {
-            N = 0;
-            t = new int[N];
-        }
-
-        public MyArray(int n)
-            : this()
-        {
-            N = n;
-            t = new int[N];
-        }
-
-        public override string ToString() => $"MyArray[N: {N}, {string.Join(", ", t)}]";
+        public override string ToString() => $"MyArray[{string.Join(", ", T)}]";
     }
 
     internal class Program
     {
         static void Main(string[] args)
         {
-            MyArray a = new MyArray(5);
+            Random rnd = new Random();
+            MyArray a = new MyArray(100);
+            MyArray a1 = new MyArray((i) => rnd.Next(i, 100 + 1), 100);
 
-            Console.WriteLine(a);
+            Console.WriteLine(a1);
             Console.ReadKey();
         }
     }
