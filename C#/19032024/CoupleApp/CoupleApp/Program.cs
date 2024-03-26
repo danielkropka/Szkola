@@ -51,16 +51,17 @@ namespace CoupleApp
             LName = "noname";
             Age = 1;
         }
-        public Person(string fName, string lName) : this()
-        {
-            FName = fName;
-            LName = lName;
-        }
         public Person(string fName, string lName, int age) : this()
         {
             FName = fName;
             LName = lName;
             Age = age;
+        }
+        public Person(Person p) : this()
+        {
+            fName = p.fName;
+            LName = p.lName;
+            Age = p.Age;
         }
         #endregion
 

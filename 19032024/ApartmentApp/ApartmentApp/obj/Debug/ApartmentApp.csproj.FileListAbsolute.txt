@@ -1,0 +1,7 @@
+D:\Github\Szkola\19032024\ApartmentApp\ApartmentApp\bin\Debug\ApartmentApp.exe.config
+D:\Github\Szkola\19032024\ApartmentApp\ApartmentApp\bin\Debug\ApartmentApp.exe
+D:\Github\Szkola\19032024\ApartmentApp\ApartmentApp\bin\Debug\ApartmentApp.pdb
+D:\Github\Szkola\19032024\ApartmentApp\ApartmentApp\obj\Debug\ApartmentApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\19032024\ApartmentApp\ApartmentApp\obj\Debug\ApartmentApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\19032024\ApartmentApp\ApartmentApp\obj\Debug\ApartmentApp.exe
+D:\Github\Szkola\19032024\ApartmentApp\ApartmentApp\obj\Debug\ApartmentApp.pdb

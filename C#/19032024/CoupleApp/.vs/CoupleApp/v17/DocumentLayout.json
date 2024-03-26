@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Github\\Szkola\\C#\\19032024\\CoupleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F5D6E35-03DE-4446-8D53-08A6C2BF0399}|CoupleApp\\CoupleApp.csproj|d:\\github\\szkola\\c#\\19032024\\coupleapp\\coupleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F5D6E35-03DE-4446-8D53-08A6C2BF0399}|CoupleApp\\CoupleApp.csproj|solutionrelative:coupleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F5D6E35-03DE-4446-8D53-08A6C2BF0399}|CoupleApp\\CoupleApp.csproj|D:\\Github\\Szkola\\C#\\19032024\\CoupleApp\\coupleapp\\couple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F5D6E35-03DE-4446-8D53-08A6C2BF0399}|CoupleApp\\CoupleApp.csproj|solutionrelative:coupleapp\\couple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5D6E35-03DE-4446-8D53-08A6C2BF0399}|CoupleApp\\CoupleApp.csproj|d:\\github\\szkola\\c#\\19032024\\coupleapp\\coupleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5D6E35-03DE-4446-8D53-08A6C2BF0399}|CoupleApp\\CoupleApp.csproj|solutionrelative:coupleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Couple.cs",
               "DocumentMoniker": "D:\\Github\\Szkola\\C#\\19032024\\CoupleApp\\CoupleApp\\Couple.cs",
               "RelativeDocumentMoniker": "CoupleApp\\Couple.cs",
               "ToolTip": "D:\\Github\\Szkola\\C#\\19032024\\CoupleApp\\CoupleApp\\Couple.cs",
               "RelativeToolTip": "CoupleApp\\Couple.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T10:03:31.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\Szkola\\C#\\19032024\\CoupleApp\\CoupleApp\\Program.cs",
               "RelativeDocumentMoniker": "CoupleApp\\Program.cs",
               "ToolTip": "D:\\Github\\Szkola\\C#\\19032024\\CoupleApp\\CoupleApp\\Program.cs",
               "RelativeToolTip": "CoupleApp\\Program.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAIwEsAAAA/AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T09:37:49.217Z",
               "EditorCaption": ""

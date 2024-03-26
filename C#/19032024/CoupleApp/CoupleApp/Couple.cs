@@ -22,8 +22,8 @@ namespace CoupleApp
 
         public Couple(Person p1, Person p2) : this()
         {
-            this.p1 = new Person(p1.FName, p1.LName, p1.Age);
-            this.p2 = new Person(p2.FName, p2.LName, p2.Age);
+            this.p1 = new Person(new Person(p1));
+            this.p2 = new Person(new Person(p2));
         }
 
         public override string ToString() => $"Couple[{P1} - {P2}]";

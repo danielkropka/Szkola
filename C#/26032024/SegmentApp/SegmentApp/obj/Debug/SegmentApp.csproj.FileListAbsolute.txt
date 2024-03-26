@@ -1,0 +1,7 @@
+D:\Github\Szkola\C#\26032024\SegmentApp\SegmentApp\bin\Debug\SegmentApp.exe.config
+D:\Github\Szkola\C#\26032024\SegmentApp\SegmentApp\bin\Debug\SegmentApp.exe
+D:\Github\Szkola\C#\26032024\SegmentApp\SegmentApp\bin\Debug\SegmentApp.pdb
+D:\Github\Szkola\C#\26032024\SegmentApp\SegmentApp\obj\Debug\SegmentApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\26032024\SegmentApp\SegmentApp\obj\Debug\SegmentApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\26032024\SegmentApp\SegmentApp\obj\Debug\SegmentApp.exe
+D:\Github\Szkola\C#\26032024\SegmentApp\SegmentApp\obj\Debug\SegmentApp.pdb
