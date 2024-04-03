@@ -1,0 +1,14 @@
+.cointainer {
+    position: absolute;
+    top: 600px;
+    left: 500px;
+}
+
+.cointainer > span {
+    background-color: bisque;
+    padding: 10px;
+}
+
+.input-value {
+    background-color: bisque;
+}

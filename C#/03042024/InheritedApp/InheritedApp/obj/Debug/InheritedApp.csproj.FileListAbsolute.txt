@@ -1,0 +1,7 @@
+D:\Github\Szkola\C#\03042024\InheritedApp\InheritedApp\bin\Debug\InheritedApp.exe.config
+D:\Github\Szkola\C#\03042024\InheritedApp\InheritedApp\bin\Debug\InheritedApp.exe
+D:\Github\Szkola\C#\03042024\InheritedApp\InheritedApp\bin\Debug\InheritedApp.pdb
+D:\Github\Szkola\C#\03042024\InheritedApp\InheritedApp\obj\Debug\InheritedApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\03042024\InheritedApp\InheritedApp\obj\Debug\InheritedApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\03042024\InheritedApp\InheritedApp\obj\Debug\InheritedApp.exe
+D:\Github\Szkola\C#\03042024\InheritedApp\InheritedApp\obj\Debug\InheritedApp.pdb

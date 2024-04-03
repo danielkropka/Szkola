@@ -1,0 +1,7 @@
+D:\Github\Szkola\C#\03042024\ClassRoomApp\ClassRoomApp\bin\Debug\ClassRoomApp.exe.config
+D:\Github\Szkola\C#\03042024\ClassRoomApp\ClassRoomApp\bin\Debug\ClassRoomApp.exe
+D:\Github\Szkola\C#\03042024\ClassRoomApp\ClassRoomApp\bin\Debug\ClassRoomApp.pdb
+D:\Github\Szkola\C#\03042024\ClassRoomApp\ClassRoomApp\obj\Debug\ClassRoomApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\03042024\ClassRoomApp\ClassRoomApp\obj\Debug\ClassRoomApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\03042024\ClassRoomApp\ClassRoomApp\obj\Debug\ClassRoomApp.exe
+D:\Github\Szkola\C#\03042024\ClassRoomApp\ClassRoomApp\obj\Debug\ClassRoomApp.pdb

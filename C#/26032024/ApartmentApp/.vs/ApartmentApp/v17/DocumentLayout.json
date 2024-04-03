@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github\\Szkola\\19032024\\ApartmentApp\\",
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\C#\\26032024\\ApartmentApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C026507-4790-480D-8C67-CCE38D9C1C8A}|ApartmentApp\\ApartmentApp.csproj|d:\\github\\szkola\\19032024\\apartmentapp\\apartmentapp\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C026507-4790-480D-8C67-CCE38D9C1C8A}|ApartmentApp\\ApartmentApp.csproj|d:\\github\\szkola\\c#\\26032024\\apartmentapp\\apartmentapp\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C026507-4790-480D-8C67-CCE38D9C1C8A}|ApartmentApp\\ApartmentApp.csproj|solutionrelative:apartmentapp\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C026507-4790-480D-8C67-CCE38D9C1C8A}|ApartmentApp\\ApartmentApp.csproj|D:\\Github\\Szkola\\19032024\\ApartmentApp\\apartmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C026507-4790-480D-8C67-CCE38D9C1C8A}|ApartmentApp\\ApartmentApp.csproj|D:\\Github\\Szkola\\C#\\26032024\\ApartmentApp\\apartmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C026507-4790-480D-8C67-CCE38D9C1C8A}|ApartmentApp\\ApartmentApp.csproj|solutionrelative:apartmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Apartment.cs",
-              "DocumentMoniker": "D:\\Github\\Szkola\\19032024\\ApartmentApp\\ApartmentApp\\Apartment.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\26032024\\ApartmentApp\\ApartmentApp\\Apartment.cs",
               "RelativeDocumentMoniker": "ApartmentApp\\Apartment.cs",
-              "ToolTip": "D:\\Github\\Szkola\\19032024\\ApartmentApp\\ApartmentApp\\Apartment.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\26032024\\ApartmentApp\\ApartmentApp\\Apartment.cs",
               "RelativeToolTip": "ApartmentApp\\Apartment.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAxwCEAAAAaAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T07:35:51.984Z",
               "EditorCaption": ""
@@ -37,13 +37,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\Szkola\\19032024\\ApartmentApp\\ApartmentApp\\Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\26032024\\ApartmentApp\\ApartmentApp\\Program.cs",
               "RelativeDocumentMoniker": "ApartmentApp\\Program.cs",
-              "ToolTip": "D:\\Github\\Szkola\\19032024\\ApartmentApp\\ApartmentApp\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\26032024\\ApartmentApp\\ApartmentApp\\Program.cs",
               "RelativeToolTip": "ApartmentApp\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAIwDwAAAAzAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T07:35:08.513Z"
+              "WhenOpened": "2024-03-26T07:35:08.513Z",
+              "EditorCaption": ""
             }
           ]
         }
