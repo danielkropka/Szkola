@@ -1,0 +1,17 @@
+form, .blocks {
+    display: flex;
+}
+
+form {
+    width: 200px;
+    align-items: center;
+    gap: 2rem;
+}
+
+.blocks {
+    flex-direction: column;
+}
+
+#height-error, #weight-error {
+    color: red;
+}

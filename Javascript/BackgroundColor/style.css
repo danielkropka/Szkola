@@ -1,0 +1,23 @@
+#firstBlock {
+    background-color: #4aff00;
+}
+
+#secondBlock {
+    background-color: #1600ff;
+}
+
+#thirdBlock {
+    background-color: #ff0001;
+}
+
+#firstBlock, #secondBlock, #thirdBlock {
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}

@@ -1,0 +1,10 @@
+#textAreas {
+    display: flex;
+    gap: 5rem;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}

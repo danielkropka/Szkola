@@ -1,0 +1,31 @@
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<script src="app.js"></script>
+<form onsubmit="calcBMI()">
+    <div class="blocks">
+        <div class="block">
+            <label for="height">Wzrost</label>
+            <input id="height" placeholder="Podaj wzrost" />
+        </div>
+        <span id="height-error" hidden>Błędne dane!</span>
+
+        <div class="block">
+            <label for="weight">Waga</label>
+            <input id="weight" placeholder="Podaj wagę" />
+        </div>
+        <span id="weight-error" hidden>Błędne dane!</span>
+    </div>
+    <button class="submitBtn" type="submit">Oblicz</button>
+
+    <input id="result" placeholder="BMI" type="number" disabled/>
+</form>
+</body>
+</html>
