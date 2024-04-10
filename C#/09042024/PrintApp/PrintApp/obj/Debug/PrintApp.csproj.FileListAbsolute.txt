@@ -1,0 +1,7 @@
+D:\Github\Szkola\C#\09042024\PrintApp\PrintApp\bin\Debug\PrintApp.exe.config
+D:\Github\Szkola\C#\09042024\PrintApp\PrintApp\bin\Debug\PrintApp.exe
+D:\Github\Szkola\C#\09042024\PrintApp\PrintApp\bin\Debug\PrintApp.pdb
+D:\Github\Szkola\C#\09042024\PrintApp\PrintApp\obj\Debug\PrintApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\09042024\PrintApp\PrintApp\obj\Debug\PrintApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\09042024\PrintApp\PrintApp\obj\Debug\PrintApp.exe
+D:\Github\Szkola\C#\09042024\PrintApp\PrintApp\obj\Debug\PrintApp.pdb

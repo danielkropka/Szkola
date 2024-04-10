@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\C#\\04042024\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE18699-CA25-4BD4-A35A-69094C67ADAA}|ConsoleApp1\\ConsoleApp1.csproj|d:\\github\\szkola\\c#\\04042024\\consoleapp1\\consoleapp1\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE18699-CA25-4BD4-A35A-69094C67ADAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE18699-CA25-4BD4-A35A-69094C67ADAA}|ConsoleApp1\\ConsoleApp1.csproj|d:\\github\\szkola\\c#\\04042024\\consoleapp1\\consoleapp1\\classes\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE18699-CA25-4BD4-A35A-69094C67ADAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\classes\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE18699-CA25-4BD4-A35A-69094C67ADAA}|ConsoleApp1\\ConsoleApp1.csproj|d:\\github\\szkola\\c#\\04042024\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE18699-CA25-4BD4-A35A-69094C67ADAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\04042024\\ConsoleApp1\\ConsoleApp1\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Car.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\04042024\\ConsoleApp1\\ConsoleApp1\\Classes\\Car.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:15:16.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\04042024\\ConsoleApp1\\ConsoleApp1\\Classes\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Classes\\Vehicle.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\04042024\\ConsoleApp1\\ConsoleApp1\\Classes\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Classes\\Vehicle.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:04:54.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\04042024\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\04042024\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:04:14.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

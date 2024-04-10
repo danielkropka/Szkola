@@ -1,0 +1,7 @@
+D:\Github\Szkola\C#\10042024\Szkoda\Szkoda\bin\Debug\Szkoda.exe.config
+D:\Github\Szkola\C#\10042024\Szkoda\Szkoda\bin\Debug\Szkoda.exe
+D:\Github\Szkola\C#\10042024\Szkoda\Szkoda\bin\Debug\Szkoda.pdb
+D:\Github\Szkola\C#\10042024\Szkoda\Szkoda\obj\Debug\Szkoda.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\10042024\Szkoda\Szkoda\obj\Debug\Szkoda.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\10042024\Szkoda\Szkoda\obj\Debug\Szkoda.exe
+D:\Github\Szkola\C#\10042024\Szkoda\Szkoda\obj\Debug\Szkoda.pdb

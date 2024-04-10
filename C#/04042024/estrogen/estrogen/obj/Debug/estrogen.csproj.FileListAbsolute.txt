@@ -1,0 +1,7 @@
+D:\Github\Szkola\C#\04042024\estrogen\estrogen\bin\Debug\estrogen.exe.config
+D:\Github\Szkola\C#\04042024\estrogen\estrogen\bin\Debug\estrogen.exe
+D:\Github\Szkola\C#\04042024\estrogen\estrogen\bin\Debug\estrogen.pdb
+D:\Github\Szkola\C#\04042024\estrogen\estrogen\obj\Debug\estrogen.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\04042024\estrogen\estrogen\obj\Debug\estrogen.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\04042024\estrogen\estrogen\obj\Debug\estrogen.exe
+D:\Github\Szkola\C#\04042024\estrogen\estrogen\obj\Debug\estrogen.pdb

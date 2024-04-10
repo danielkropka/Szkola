@@ -1,0 +1,7 @@
+D:\Github\Szkola\C#\04042024\RoomsInheritedApp\RoomsInheritedApp\bin\Debug\RoomsInheritedApp.exe.config
+D:\Github\Szkola\C#\04042024\RoomsInheritedApp\RoomsInheritedApp\bin\Debug\RoomsInheritedApp.exe
+D:\Github\Szkola\C#\04042024\RoomsInheritedApp\RoomsInheritedApp\bin\Debug\RoomsInheritedApp.pdb
+D:\Github\Szkola\C#\04042024\RoomsInheritedApp\RoomsInheritedApp\obj\Debug\RoomsInheritedApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\04042024\RoomsInheritedApp\RoomsInheritedApp\obj\Debug\RoomsInheritedApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\04042024\RoomsInheritedApp\RoomsInheritedApp\obj\Debug\RoomsInheritedApp.exe
+D:\Github\Szkola\C#\04042024\RoomsInheritedApp\RoomsInheritedApp\obj\Debug\RoomsInheritedApp.pdb

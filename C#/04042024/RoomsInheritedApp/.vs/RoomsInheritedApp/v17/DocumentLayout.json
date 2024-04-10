@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|d:\\github\\szkola\\c#\\04042024\\roomsinheritedapp\\roomsinheritedapp\\bedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|solutionrelative:roomsinheritedapp\\bedroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|d:\\github\\szkola\\c#\\04042024\\roomsinheritedapp\\roomsinheritedapp\\bathroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|solutionrelative:roomsinheritedapp\\bathroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|d:\\github\\szkola\\c#\\04042024\\roomsinheritedapp\\roomsinheritedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|solutionrelative:roomsinheritedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|d:\\github\\szkola\\c#\\04042024\\roomsinheritedapp\\roomsinheritedapp\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|solutionrelative:roomsinheritedapp\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|d:\\github\\szkola\\c#\\04042024\\roomsinheritedapp\\roomsinheritedapp\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDBAE56-2419-4F12-B201-BAA552B1A223}|RoomsInheritedApp\\RoomsInheritedApp.csproj|solutionrelative:roomsinheritedapp\\kitchen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bedroom.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Bedroom.cs",
+              "RelativeDocumentMoniker": "RoomsInheritedApp\\Bedroom.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Bedroom.cs",
+              "RelativeToolTip": "RoomsInheritedApp\\Bedroom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:53:00.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bathroom.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Bathroom.cs",
+              "RelativeDocumentMoniker": "RoomsInheritedApp\\Bathroom.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Bathroom.cs",
+              "RelativeToolTip": "RoomsInheritedApp\\Bathroom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:32:27.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kitchen.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Kitchen.cs",
+              "RelativeDocumentMoniker": "RoomsInheritedApp\\Kitchen.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Kitchen.cs",
+              "RelativeToolTip": "RoomsInheritedApp\\Kitchen.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:23:56.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Room.cs",
+              "RelativeDocumentMoniker": "RoomsInheritedApp\\Room.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Room.cs",
+              "RelativeToolTip": "RoomsInheritedApp\\Room.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:19:26.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Program.cs",
+              "RelativeDocumentMoniker": "RoomsInheritedApp\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\04042024\\RoomsInheritedApp\\RoomsInheritedApp\\Program.cs",
+              "RelativeToolTip": "RoomsInheritedApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:10:15.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

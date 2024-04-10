@@ -1,0 +1,27 @@
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="container" class="container">
+    <div id="form-container">
+        <form id="form-1" class="form-1">
+            <input class="input" oninput="calc();" id="inp-0" />
+            <input class="input" oninput="calc();" id="inp-1" />
+        </form>
+        <button onclick="addField();">Dodaj pole</button>
+    </div>
+    <div>
+        <label for="result">Wynik:</label>
+        <input id="result" placeholder="wynik" disabled>
+    </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
