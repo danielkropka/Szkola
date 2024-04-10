@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="container">
+    <form id="form">
+        <div id="height-container">
+            <label for="height">Wzrost</label>
+            <input type="text" id="height" />
+        </div>
+        <div id="weight-container">
+            <label for="weight">Waga</label>
+            <input type="text" id="weight" />
+        </div>
+        <div id="footer-container">
+            <button onclick="calculateBMI();">Oblicz</button>
+            <div id="result-container">
+                <label for="result">BMI:</label>
+                <div id="result"></div>
+            </div>
+        </div>
+    </form>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

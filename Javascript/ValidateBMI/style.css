@@ -1,0 +1,25 @@
+#container {
+    width: 300px;
+}
+#form {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+#footer-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+#result-container {
+
+}
+#result {
+    margin-right: 1rem;
+    border: 1px dotted red;
+    display: inline-block;
+}
+
