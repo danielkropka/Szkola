@@ -1,0 +1,7 @@
+D:\Github\Szkola\C#\11042024\SzkodaV2\SzkodaV2\bin\Debug\SzkodaV2.exe.config
+D:\Github\Szkola\C#\11042024\SzkodaV2\SzkodaV2\bin\Debug\SzkodaV2.exe
+D:\Github\Szkola\C#\11042024\SzkodaV2\SzkodaV2\bin\Debug\SzkodaV2.pdb
+D:\Github\Szkola\C#\11042024\SzkodaV2\SzkodaV2\obj\Debug\SzkodaV2.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\11042024\SzkodaV2\SzkodaV2\obj\Debug\SzkodaV2.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\11042024\SzkodaV2\SzkodaV2\obj\Debug\SzkodaV2.exe
+D:\Github\Szkola\C#\11042024\SzkodaV2\SzkodaV2\obj\Debug\SzkodaV2.pdb

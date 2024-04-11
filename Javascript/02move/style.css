@@ -1,0 +1,8 @@
+#block {
+    position: absolute;
+    top: 500px;
+    left: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}

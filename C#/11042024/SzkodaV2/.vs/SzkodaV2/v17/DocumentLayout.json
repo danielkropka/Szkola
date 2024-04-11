@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E5AC98-3939-4DAA-88C5-18AD133213FD}|SzkodaV2\\SzkodaV2.csproj|D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\szkodav2\\classes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E5AC98-3939-4DAA-88C5-18AD133213FD}|SzkodaV2\\SzkodaV2.csproj|solutionrelative:szkodav2\\classes\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E5AC98-3939-4DAA-88C5-18AD133213FD}|SzkodaV2\\SzkodaV2.csproj|d:\\github\\szkola\\c#\\11042024\\szkodav2\\szkodav2\\classes\\bottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E5AC98-3939-4DAA-88C5-18AD133213FD}|SzkodaV2\\SzkodaV2.csproj|solutionrelative:szkodav2\\classes\\bottle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E5AC98-3939-4DAA-88C5-18AD133213FD}|SzkodaV2\\SzkodaV2.csproj|D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\szkodav2\\classes\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E5AC98-3939-4DAA-88C5-18AD133213FD}|SzkodaV2\\SzkodaV2.csproj|solutionrelative:szkodav2\\classes\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E5AC98-3939-4DAA-88C5-18AD133213FD}|SzkodaV2\\SzkodaV2.csproj|D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\szkodav2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E5AC98-3939-4DAA-88C5-18AD133213FD}|SzkodaV2\\SzkodaV2.csproj|solutionrelative:szkodav2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\SzkodaV2\\Classes\\Box.cs",
+              "RelativeDocumentMoniker": "SzkodaV2\\Classes\\Box.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\SzkodaV2\\Classes\\Box.cs",
+              "RelativeToolTip": "SzkodaV2\\Classes\\Box.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:22:25.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bottle.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\SzkodaV2\\Classes\\Bottle.cs",
+              "RelativeDocumentMoniker": "SzkodaV2\\Classes\\Bottle.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\SzkodaV2\\Classes\\Bottle.cs",
+              "RelativeToolTip": "SzkodaV2\\Classes\\Bottle.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:14:23.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Package.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\SzkodaV2\\Classes\\Package.cs",
+              "RelativeDocumentMoniker": "SzkodaV2\\Classes\\Package.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\SzkodaV2\\Classes\\Package.cs",
+              "RelativeToolTip": "SzkodaV2\\Classes\\Package.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:14:01.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\SzkodaV2\\Program.cs",
+              "RelativeDocumentMoniker": "SzkodaV2\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\11042024\\SzkodaV2\\SzkodaV2\\Program.cs",
+              "RelativeToolTip": "SzkodaV2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:12:48.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
