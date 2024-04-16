@@ -1,0 +1,21 @@
+#container {
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+
+#container_textarea {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    align-items: center;
+}
+
+#result {
+    display: flex;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+#block {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    background-color: darkred;
+}
+
+#block:hover {
+    cursor: pointer;
+}
