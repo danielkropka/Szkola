@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+    align-items: center;
+    gap: 2rem;
+}
+
+#result-container {
+    border: 1px solid black;
+    padding: 1rem;
+}

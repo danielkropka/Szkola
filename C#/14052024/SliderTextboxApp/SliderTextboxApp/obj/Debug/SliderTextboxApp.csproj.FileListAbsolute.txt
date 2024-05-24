@@ -1,0 +1,15 @@
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\bin\Debug\SliderTextboxApp.exe.config
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\bin\Debug\SliderTextboxApp.exe
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\bin\Debug\SliderTextboxApp.pdb
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\App.g.cs
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp_MarkupCompile.cache
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp_MarkupCompile.lref
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp.g.resources
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp.Properties.Resources.resources
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp.csproj.GenerateResource.cache
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp.exe
+D:\Github\Szkola\C#\14052024\SliderTextboxApp\SliderTextboxApp\obj\Debug\SliderTextboxApp.pdb

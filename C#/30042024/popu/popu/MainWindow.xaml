@@ -1,0 +1,49 @@
+﻿<Window x:Class="popu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:popu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="300"
+        ResizeMode="NoResize">
+        <Grid Margin="0,10,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height=".8*" />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="70" />
+                    <ColumnDefinition Width="85" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0" Grid.Column="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="100"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="10"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="a:" Grid.Row="0" Grid.Column="0"/>
+                    <Label Content="b:" Grid.Row="2" Grid.Column="0"/>
+                    <TextBox x:Name="TBa" Grid.Row="0" Grid.Column="1" TextAlignment="Right" TextChanged="TBValidation"  />
+                    <TextBox x:Name="TBb" Grid.Row="2" Grid.Column="1" TextAlignment="Right" TextChanged="TBValidation" />
+                </Grid>
+                <Grid Grid.Row="0" Grid.Column="2">
+                    <Button x:Name="BResult" Content="+" Height="30" Click="Calculate" IsEnabled="False" />
+                </Grid>
+            </Grid>
+            <Separator Grid.Row="1" Width="240"/>
+            <StackPanel Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock x:Name="TBResult" Text="Wpisz coś nie" TextAlignment="Center" VerticalAlignment="Center" FontSize="40" />
+            </StackPanel>
+        </Grid>
+</Window>

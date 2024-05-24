@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <div class="form">
+        <div>
+            <label for="title">Tytuł</label>
+            <input id="title" />
+        </div>
+        <div>
+            <label for="author">Autor</label>
+            <input id="author" />
+        </div>
+        <div>
+            <label for="year">Rok</label>
+            <input id="year" type="number" />
+        </div>
+        <div>
+            <label for="pages">Ilość stron</label>
+            <input id="pages" type="number" />
+        </div>
+        <div>
+            <label for="cover">Okładka</label>
+            <input id="cover" />
+        </div>
+        <div>
+            <label for="price">Cena</label>
+            <input id="price" type="number" />
+        </div>
+        <div>
+            <label for="priceDiscount">Cena po rabacie</label>
+            <input id="priceDiscount" type="number" />
+        </div>
+        <button id="add_button">Dodaj</button>
+    </div>
+    <div id="books_result" class="books"></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\bin\Debug\BabyApp.exe.config
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\bin\Debug\BabyApp.exe
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\bin\Debug\BabyApp.pdb
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\App.g.cs
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp_MarkupCompile.cache
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp_MarkupCompile.lref
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp.g.resources
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp.Properties.Resources.resources
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp.csproj.GenerateResource.cache
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp.exe
+D:\Github\Szkola\C#\18042024\BabyApp\BabyApp\obj\Debug\BabyApp.pdb

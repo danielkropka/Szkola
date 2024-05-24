@@ -1,0 +1,38 @@
+﻿<Window x:Class="StyleBasicApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StyleBasicApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="700"
+        >
+    <Window.Resources>
+        <Style x:Key="ParamsTBox" TargetType="TextBox">
+            <Setter Property="Background" Value="#FFECECEC" />
+            <Setter Property="FontSize" Value="16" />
+            <Style.Triggers>
+                <Trigger Property="IsFocused" Value="True">
+                    <Setter Property="Background" Value="LightGray" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style x:Key="ParamsButton" TargetType="Button">
+            <Setter Property="FontSize" Value="16" />
+            <Setter Property="Background" Value="#FFECECEC" />
+            <Setter Property="BorderThickness" Value="0" />
+            <Setter Property="Background" Value="LightGreen" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Label Content="A" HorizontalAlignment="Left" Margin="36,42,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="B" HorizontalAlignment="Left" Margin="36,73,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <Label Content="C" HorizontalAlignment="Left" Margin="35,104,0,0" VerticalAlignment="Top" FontSize="15"/>
+        <TextBox Style="{StaticResource ParamsTBox}" HorizontalAlignment="Left" Margin="59,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Style="{StaticResource ParamsTBox}" HorizontalAlignment="Left" Margin="59,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox Style="{StaticResource ParamsTBox}" HorizontalAlignment="Left" Margin="59,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="216,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="163" Width="440" Background="#FFDEDEDE"/>
+        <Button Style="{StaticResource ParamsButton}" Content="Oblicz" HorizontalAlignment="Left" Margin="59,177,0,0" VerticalAlignment="Top" Height="57" Width="120" />
+
+    </Grid>
+</Window>

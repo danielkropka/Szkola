@@ -16,11 +16,6 @@ let x = [],
   v = 70;
 
 function Random(from = 0, to = 99) {
-  /*    do {
-                  let randomNumber = Math.random() * 100;
-                  if (randomNumber <= to && randomNumber >= from)
-                      return randomNumber.toFixed();
-              } while(true);*/
   return Math.floor(Math.random() * (to - from + 1) + from);
 }
 

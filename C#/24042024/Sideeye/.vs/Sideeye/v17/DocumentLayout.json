@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\C#\\24042024\\Sideeye\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A830620D-BB44-4DB6-A316-7E0940D7278E}|Sideeye\\Sideeye.csproj|d:\\github\\szkola\\c#\\24042024\\sideeye\\sideeye\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A830620D-BB44-4DB6-A316-7E0940D7278E}|Sideeye\\Sideeye.csproj|solutionrelative:sideeye\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A830620D-BB44-4DB6-A316-7E0940D7278E}|Sideeye\\Sideeye.csproj|D:\\Github\\Szkola\\C#\\24042024\\Sideeye\\sideeye\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A830620D-BB44-4DB6-A316-7E0940D7278E}|Sideeye\\Sideeye.csproj|solutionrelative:sideeye\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\24042024\\Sideeye\\Sideeye\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sideeye\\MainWindow.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\24042024\\Sideeye\\Sideeye\\MainWindow.xaml",
+              "RelativeToolTip": "Sideeye\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T06:18:29.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\24042024\\Sideeye\\Sideeye\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sideeye\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\24042024\\Sideeye\\Sideeye\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sideeye\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T06:18:28.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\C#\\18042024\\BabyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654E0868-1203-417E-A403-7264481002CE}|BabyApp\\BabyApp.csproj|d:\\github\\szkola\\c#\\18042024\\babyapp\\babyapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{654E0868-1203-417E-A403-7264481002CE}|BabyApp\\BabyApp.csproj|solutionrelative:babyapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654E0868-1203-417E-A403-7264481002CE}|BabyApp\\BabyApp.csproj|d:\\github\\szkola\\c#\\18042024\\babyapp\\babyapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654E0868-1203-417E-A403-7264481002CE}|BabyApp\\BabyApp.csproj|solutionrelative:babyapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\18042024\\BabyApp\\BabyApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BabyApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\18042024\\BabyApp\\BabyApp\\MainWindow.xaml",
+              "RelativeToolTip": "BabyApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T06:58:30.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\C#\\18042024\\BabyApp\\BabyApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BabyApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\C#\\18042024\\BabyApp\\BabyApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BabyApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:58:29.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

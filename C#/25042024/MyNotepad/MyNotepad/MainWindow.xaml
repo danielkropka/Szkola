@@ -1,0 +1,72 @@
+﻿<Window x:Class="MyNotepad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyNotepad"
+        mc:Ignorable="d"
+        Title="Notatnik" Height="450" Width="800"
+        >
+    <DockPanel>
+        <Menu IsMainMenu="True" DockPanel.Dock="Top">
+            <MenuItem Header="_Plik">
+                <MenuItem Header="_Nowy"/>
+                <MenuItem 
+                    Header="_Otwórz"
+                    Click="OpenMItem"
+                />
+                <MenuItem 
+                    Header="Zapi_sz"
+                    Click="SaveMItem"
+                />
+                <MenuItem 
+                    Header="Z_apisz jako..."
+                    Click="SaveAsMItem"
+                />
+                <Separator/>
+                <MenuItem Header="_Drukuj"/>
+                <Separator/>
+                <MenuItem 
+                    Header="_Zakończ"
+                    Click="CloseMItem"
+                />
+            </MenuItem>
+            <MenuItem Header="_Edycja">
+                <MenuItem Header="_Wytnij" />
+                <MenuItem Header="_Kopiuj" />
+                <MenuItem Header="Wkl_ej" />
+            </MenuItem>
+            <MenuItem Header="_Widok">
+                <MenuItem 
+                    x:Name="TextWrappingMItem"
+                    Header="_Zawijaj wiersze"
+                    IsCheckable="True"
+                    Unchecked="TextNoWrapMItem"
+                    Checked="TextWrapMItem"
+                />
+                <MenuItem Header="_Wielkość czcionki" />
+            </MenuItem>
+        </Menu>
+        <ToolBarTray DockPanel.Dock="Top">
+        </ToolBarTray>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock 
+                    x:Name="StatusBarTB" 
+                   Text="[Brak pliku...]"
+                />
+            </StatusBarItem>
+        </StatusBar>
+        <TextBox 
+            x:Name="MainTB" 
+            BorderThickness="0" 
+            AcceptsReturn="True" 
+            TextWrapping="Wrap" 
+            FontSize="14" 
+            TextChanged="TextInputMItem" 
+            Padding="8, 8, 8, 8" 
+            VerticalScrollBarVisibility="Auto" 
+            HorizontalScrollBarVisibility="Auto" 
+        />
+    </DockPanel>
+</Window>

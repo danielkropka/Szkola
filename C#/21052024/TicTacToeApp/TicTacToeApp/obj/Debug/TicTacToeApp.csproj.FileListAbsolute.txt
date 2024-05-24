@@ -1,0 +1,15 @@
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\bin\Debug\TicTacToeApp.exe.config
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\bin\Debug\TicTacToeApp.exe
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\bin\Debug\TicTacToeApp.pdb
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\App.g.cs
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp_MarkupCompile.cache
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp_MarkupCompile.lref
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.g.resources
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.Properties.Resources.resources
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.csproj.GenerateResource.cache
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.exe
+D:\Github\Szkola\C#\21052024\TicTacToeApp\TicTacToeApp\obj\Debug\TicTacToeApp.pdb

@@ -1,0 +1,48 @@
+﻿<Window x:Class="Sideeye.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sideeye"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="170" Width="250"
+        ResizeMode="NoResize">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal" Height="100">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                <StackPanel Orientation="Vertical" VerticalAlignment="Center" Width="60">
+                    <Label Content="Dane" HorizontalAlignment="Right" />
+                </StackPanel>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="5"/>
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Label Content="Imię:" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right"/>
+                    <Label Content="Nazwisko:" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Right"/>
+                    <TextBox Grid.Row="0" Grid.Column="1" Width="80" HorizontalAlignment="Left"/>
+                    <TextBox Grid.Row="2" Grid.Column="1" Width="100" HorizontalAlignment="Left"/>
+                </Grid>
+            </StackPanel>
+        </StackPanel>
+        <Grid HorizontalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70" />
+                <ColumnDefinition Width="50" />
+                <ColumnDefinition Width="70" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Button Content="OK" Grid.Column="0" />
+            <Button Content="Anuluj" Grid.Column="2" />
+        </Grid>
+    </StackPanel>
+</Window>

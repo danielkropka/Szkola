@@ -1,0 +1,15 @@
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\bin\Debug\TBoxTBlockApp.exe.config
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\bin\Debug\TBoxTBlockApp.exe
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\bin\Debug\TBoxTBlockApp.pdb
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\App.g.cs
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp_MarkupCompile.cache
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp_MarkupCompile.lref
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp.g.resources
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp.Properties.Resources.resources
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp.csproj.GenerateResource.cache
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp.exe
+D:\Github\Szkola\C#\24042024\TBoxTBlockApp\TBoxTBlockApp\obj\Debug\TBoxTBlockApp.pdb

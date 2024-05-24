@@ -1,0 +1,15 @@
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\bin\Debug\Pompuszek.exe.config
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\bin\Debug\Pompuszek.exe
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\bin\Debug\Pompuszek.pdb
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\App.g.cs
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek_MarkupCompile.cache
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek_MarkupCompile.lref
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\MainWindow.baml
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek.g.resources
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek.Properties.Resources.resources
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek.csproj.GenerateResource.cache
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek.exe
+D:\Github\Szkola\C#\21052024\Pompuszek\Pompuszek\obj\Debug\Pompuszek.pdb

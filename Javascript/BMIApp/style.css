@@ -1,0 +1,44 @@
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.form_container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.list {
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    width: 55%;
+    min-height: 200px;
+    height: fit-content;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: .5rem;
+    justify-content: space-between;
+}
+
+.item {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    width: 200px;
+    height: fit-content;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+
+}

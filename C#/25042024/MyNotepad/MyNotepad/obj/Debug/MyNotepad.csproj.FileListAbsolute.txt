@@ -1,0 +1,15 @@
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\App.g.cs
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad_MarkupCompile.cache
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad_MarkupCompile.lref
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MainWindow.baml
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad.g.resources
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+D:\Github\Szkola\C#\25042024\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="SliderTextboxApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SliderTextboxApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <Rectangle x:Name="RectangleRGB" Margin="222,64,222,190" Stroke="Black" />
+        <TextBox x:Name="TBR" Margin="0,350,20,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="36" TextChanged="HandleTBChange"  />
+        <TextBox x:Name="TBG" Margin="0,379,20,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="36" TextChanged="HandleTBChange"  />
+        <TextBox x:Name="TBB" Margin="0,409,20,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="36" TextChanged="HandleTBChange"  />
+        <Label Content="R" Margin="10,337,764,103" FontSize="20" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Label Content="G" Margin="10,397,764,43" FontSize="20" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Label Content="B" Margin="10,367,764,73" FontSize="20" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Slider x:Name="SliderColorR" Margin="40,350,0,0" Value="100" VerticalAlignment="Top" HorizontalAlignment="Left" Width="685" ValueChanged="HandleColorSlider" Maximum="255" SmallChange="1" IsSnapToTickEnabled="True" />
+        <Slider x:Name="SliderColorG" Margin="40,380,0,0" Value="100" VerticalAlignment="Top" HorizontalAlignment="Left" Width="685" ValueChanged="HandleColorSlider" Maximum="255" SmallChange="1" IsSnapToTickEnabled="True" />
+        <Slider x:Name="SliderColorB" Margin="40,410,0,0" Value="100" VerticalAlignment="Top" HorizontalAlignment="Left" Width="685" ValueChanged="HandleColorSlider" Maximum="255" SmallChange="1" IsSnapToTickEnabled="True" />
+    </Grid>
+</Window>
