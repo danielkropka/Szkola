@@ -1,0 +1,52 @@
+﻿<Window x:Class="TrinomialApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrinomialApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="284" Width="800">
+    <Grid>
+        <GroupBox Header="Wartości" Margin="12,5,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="133" Width="101">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+                    <Label Content="A"/>
+                    <TextBox x:Name="aTB" Height="23" Width="60" Text="1" TextAlignment="Right" TextChanged="HandleTextChange"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+                    <Label Content="B" />
+                    <TextBox x:Name="bTB" Height="23" Width="60" Text="2" TextAlignment="Right" TextChanged="HandleTextChange"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+                    <Label Content="C" />
+                    <TextBox x:Name="cTB" Height="23" Width="60" Text="1" TextAlignment="Right" TextChanged="HandleTextChange"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Opcje" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,143,0,0" Width="124">
+            <StackPanel>
+                <CheckBox x:Name="VertexCB" Content="Wierzchołek" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Click="HandleCBChange"/>
+                <CheckBox x:Name="SetOfValuesCB" Content="Zbiór wartości" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" Click="HandleCBChange"/>
+                <CheckBox x:Name="CountOfSolutionsCB" Content="Ilość rozwiązań" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" IsChecked="True" Click="HandleCBChange"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Postać" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="118,5,0,0" Height="133" Width="127">
+            <StackPanel>
+                <RadioButton x:Name="GeneralRB" Content="Ogólna" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="8" IsChecked="True" Checked="HandleFormChange"/>
+                <RadioButton x:Name="ProductRB" Content="Iloczynowa" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="8" Checked="HandleFormChange"/>
+                <RadioButton x:Name="CanonicalRB" Content="Kanoniczna" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="8" Checked="HandleFormChange"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Rozwiązania" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="139,143,0,0" Height="98" Width="106">
+            <StackPanel>
+                <RadioButton Content="X0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5"/>
+                <RadioButton Content="X1=X2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" IsChecked="True"/>
+            </StackPanel>
+        </GroupBox>
+        <TextBlock x:Name="FunctionTB" HorizontalAlignment="Left" Margin="260,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="515"/>
+        <TextBlock x:Name="CountOfSolutionsTB" HorizontalAlignment="Left" Margin="260,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="515"/>
+        <TextBlock x:Name="VertexTB" HorizontalAlignment="Left" Margin="260,62,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="515"/>
+        <TextBlock x:Name="ValueSetTB" HorizontalAlignment="Left" Margin="260,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="515"/>
+        <TextBlock x:Name="SolutionsTB" HorizontalAlignment="Left" Margin="260,210,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="515"/>
+    </Grid>
+</Window>

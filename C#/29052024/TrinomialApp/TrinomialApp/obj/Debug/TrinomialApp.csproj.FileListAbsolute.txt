@@ -1,0 +1,15 @@
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\bin\Debug\TrinomialApp.exe.config
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\bin\Debug\TrinomialApp.exe
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\bin\Debug\TrinomialApp.pdb
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\App.g.cs
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp_MarkupCompile.cache
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp_MarkupCompile.lref
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.g.resources
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.Properties.Resources.resources
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.csproj.GenerateResource.cache
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.exe
+D:\Github\Szkola\C#\29052024\TrinomialApp\TrinomialApp\obj\Debug\TrinomialApp.pdb

@@ -33,18 +33,26 @@ const showHobbies = (hobbies) => {
 
 const show = (array) => {
   for (const element of array) {
-    output.innerHTML += `<h2>${element.firstName} ${element.lastName}</h2><p>Wzrost: ${element.height}</p><p>Wiek: ${element.age}</p><p>Hobby:<br/>${showHobbies(element.hobbies)}</p>`;
+    output.innerHTML += `<h2>${element.firstName} ${
+      element.lastName
+    }</h2><p>Wzrost: ${element.height}</p><p>Wiek: ${
+      element.age
+    }</p><p>Hobby:<br/>${showHobbies(element.hobbies)}</p>`;
   }
 };
 
 show(persons);
 
 const showPersonH = (person) => {
-  output.innerHTML += `<br/>${person.lastName} ${person.firstName} ${person.height} ${person.hobbies.join(", ")}`;
+  output.innerHTML += `<br/>${person.lastName} ${person.firstName} ${
+    person.height
+  } ${person.hobbies.join(", ")}`;
 };
 
 const showPersonV = (person) => {
-  output.innerHTML += `<br/>${person.lastName}<br/>${person.firstName}<br/>${person.height}<br/>${person.hobbies.join(", ")}`;
+  output.innerHTML += `<br/>${person.lastName}<br/>${person.firstName}<br/>${
+    person.height
+  }<br/>${person.hobbies.join(", ")}`;
 };
 
 const showPersons = (t, callback) => {
@@ -52,3 +60,11 @@ const showPersons = (t, callback) => {
 };
 
 showPersons(persons, showPersonH);
+
+setInterval(
+  (person) => {
+    showPersonV(person);
+  },
+  3000,
+  persons[0]
+);
