@@ -1,0 +1,57 @@
+﻿<Window x:Class="TrinomialNotifyApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TrinomialNotifyApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <local:Trinomial />
+    </Window.DataContext>
+    <Window.Resources>
+        <local:ElementsConverterClass x:Key="ElementsConverter" />
+    </Window.Resources>
+
+    <StackPanel Margin="20">
+        <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="200"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="10"/>
+                <RowDefinition/>
+                <RowDefinition Height="10"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Content="a"/>
+            <TextBox Grid.Column="1" Text="{Binding A, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalContentAlignment="Center"/>
+            <Label Grid.Row="2" Content="b"/>
+            <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding B, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalContentAlignment="Center"/>
+            <Label Grid.Row="4" Content="c"/>
+            <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding C, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalContentAlignment="Center"/>
+        </Grid>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Delta =>" FontSize="25" />
+            <Label x:Name="DeltaLabel" Content="{Binding Delta, Mode=OneWay}" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Liczba pierwiastków =>" FontSize="25" />
+            <Label x:Name="NumberOfElementsLabel" Content="{Binding NumberOfElements, Mode=OneWay}" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="X1 =>" FontSize="25" />
+            <Label x:Name="X1Label" Content="{Binding X1, Mode=OneWay, Converter={StaticResource ElementsConverter}, TargetNullValue=brak}" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="X2 =>" FontSize="25" />
+            <Label x:Name="X2Label" Content="{Binding X2, Mode=OneWay, Converter={StaticResource ElementsConverter}, TargetNullValue=brak}" FontSize="25" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="W =>" FontSize="25" />
+            <Label x:Name="VertexLabel" Content="{Binding Vertex, Mode=OneWay}" FontSize="25" />
+        </StackPanel>
+    </StackPanel>
+</Window>

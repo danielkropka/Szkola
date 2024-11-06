@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\deltaandsolutionstab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\deltaandsolutionstab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\apextab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\apextab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\canonicaltab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\canonicaltab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\producttab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\producttab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\producttab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\producttab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\canonicaltab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\canonicaltab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\abctab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\abctab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\apextab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\apextab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\deltaandsolutionstab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\deltaandsolutionstab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\pages\\abctab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\pages\\abctab.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|d:\\github\\szkola\\2024 2025\\02102024\\triniomialapp\\triniomialapp\\triniomialapp\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{BDDBFD47-4EA4-4C36-882B-8235E42F20F1}|TriniomialApp\\TriniomialApp\\TriniomialApp.csproj|solutionrelative:triniomialapp\\triniomialapp\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "productTab.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\productTab.xaml.cs",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\productTab.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\productTab.xaml.cs",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\productTab.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:01:06.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "canonicalTab.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\canonicalTab.xaml.cs",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\canonicalTab.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\canonicalTab.xaml.cs",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\canonicalTab.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:00:03.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApexTab.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\ApexTab.xaml.cs",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\ApexTab.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\ApexTab.xaml.cs",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\ApexTab.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:48:21.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "deltaAndSolutionsTab.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\deltaAndSolutionsTab.xaml.cs",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\deltaAndSolutionsTab.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\deltaAndSolutionsTab.xaml.cs",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\deltaAndSolutionsTab.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwEkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:07:17.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "abcTab.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\abcTab.xaml.cs",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\abcTab.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\abcTab.xaml.cs",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\abcTab.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:53:36.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:24:54.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\MainPage.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\MainPage.xaml",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T06:24:28.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\App.xaml",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\App.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\App.xaml",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T06:24:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "productTab.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\productTab.xaml",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\productTab.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\productTab.xaml",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\productTab.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T06:24:14.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "canonicalTab.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\canonicalTab.xaml",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\canonicalTab.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\canonicalTab.xaml",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\canonicalTab.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T06:23:41.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApexTab.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\ApexTab.xaml",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\ApexTab.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\ApexTab.xaml",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\ApexTab.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T06:23:12.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "deltaAndSolutionsTab.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\deltaAndSolutionsTab.xaml",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\deltaAndSolutionsTab.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\deltaAndSolutionsTab.xaml",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\deltaAndSolutionsTab.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T06:22:37.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "abcTab.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\abcTab.xaml",
+              "RelativeDocumentMoniker": "TriniomialApp\\TriniomialApp\\Pages\\abcTab.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\02102024\\TriniomialApp\\TriniomialApp\\TriniomialApp\\Pages\\abcTab.xaml",
+              "RelativeToolTip": "TriniomialApp\\TriniomialApp\\Pages\\abcTab.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-02T06:22:10.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

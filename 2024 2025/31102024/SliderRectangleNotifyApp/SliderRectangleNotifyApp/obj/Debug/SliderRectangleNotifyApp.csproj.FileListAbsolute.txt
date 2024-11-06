@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\bin\Debug\SliderRectangleNotifyApp.exe.config
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\bin\Debug\SliderRectangleNotifyApp.exe
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\bin\Debug\SliderRectangleNotifyApp.pdb
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp.g.resources
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp.exe
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\SliderRectangleNotifyApp.pdb
+D:\Github\Szkola\2024 2025\31102024\SliderRectangleNotifyApp\SliderRectangleNotifyApp\obj\Debug\GeneratedInternalTypeHelper.g.cs

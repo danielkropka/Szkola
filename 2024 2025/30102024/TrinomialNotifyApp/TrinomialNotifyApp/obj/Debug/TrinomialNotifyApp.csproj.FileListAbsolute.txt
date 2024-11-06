@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\bin\Debug\TrinomialNotifyApp.exe.config
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\bin\Debug\TrinomialNotifyApp.exe
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\bin\Debug\TrinomialNotifyApp.pdb
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp.g.resources
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp.exe
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\TrinomialNotifyApp.pdb
+D:\Github\Szkola\2024 2025\30102024\TrinomialNotifyApp\TrinomialNotifyApp\obj\Debug\GeneratedInternalTypeHelper.g.cs

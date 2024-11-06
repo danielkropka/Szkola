@@ -1,0 +1,31 @@
+﻿<Window x:Class="BindingApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BindingApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal">
+            <Slider x:Name="Slider" Margin="10,210,0,0" Width="500" HorizontalAlignment="Left" VerticalAlignment="Top" Maximum="100" Minimum="1" IsSnapToTickEnabled="True" ValueChanged="HandleSliderChange" />
+            <TextBox x:Name="TB" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 210, 0, 0" Width="50" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Slider x:Name="SecondSlider" Margin="10,250,0,0" Width="500" HorizontalAlignment="Left" VerticalAlignment="Top" Maximum="100" Minimum="1" IsSnapToTickEnabled="True" />
+            <TextBox x:Name="SecondTB" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 250, 0, 0" Width="50" Text="{Binding ElementName=SecondSlider, Path=Value}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBox x:Name="ThirdTB" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 300, 0, 0" Width="50"/>
+            <Slider x:Name="ThirdSlider" Margin="10,300,0,0" Width="500" HorizontalAlignment="Left" VerticalAlignment="Top" Maximum="100" Minimum="1" IsSnapToTickEnabled="True" Value="{Binding ElementName=ThirdTB, Path=Text}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Slider x:Name="FourthSlider" Margin="10,350,0,0" Width="500" HorizontalAlignment="Left" VerticalAlignment="Top" Maximum="100" Minimum="1" IsSnapToTickEnabled="True" />
+            <TextBox x:Name="FourthTB" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 350, 0, 0" Width="50" Text="{Binding Value, ElementName=FourthSlider, Mode=OneWay}" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Slider x:Name="FifthSlider" Margin="10,400,0,0" Width="500" HorizontalAlignment="Left" VerticalAlignment="Top" Maximum="100" Minimum="1" IsSnapToTickEnabled="True" />
+            <TextBox x:Name="FifthTB" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10, 400, 0, 0" Width="50" />
+        </StackPanel>
+    </Grid>
+</Window>

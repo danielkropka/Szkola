@@ -1,0 +1,15 @@
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\bin\Debug\heartattack.exe.config
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\bin\Debug\heartattack.exe
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\bin\Debug\heartattack.pdb
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack.g.resources
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack.exe
+D:\Github\Szkola\2024 2025\17092024\heartattack\heartattack\obj\Debug\heartattack.pdb

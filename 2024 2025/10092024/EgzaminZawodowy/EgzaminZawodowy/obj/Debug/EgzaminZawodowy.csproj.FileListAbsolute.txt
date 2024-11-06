@@ -1,0 +1,7 @@
+D:\Github\Szkola\2024 2025\10092024\EgzaminZawodowy\EgzaminZawodowy\bin\Debug\EgzaminZawodowy.exe.config
+D:\Github\Szkola\2024 2025\10092024\EgzaminZawodowy\EgzaminZawodowy\bin\Debug\EgzaminZawodowy.exe
+D:\Github\Szkola\2024 2025\10092024\EgzaminZawodowy\EgzaminZawodowy\bin\Debug\EgzaminZawodowy.pdb
+D:\Github\Szkola\2024 2025\10092024\EgzaminZawodowy\EgzaminZawodowy\obj\Debug\EgzaminZawodowy.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\10092024\EgzaminZawodowy\EgzaminZawodowy\obj\Debug\EgzaminZawodowy.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\10092024\EgzaminZawodowy\EgzaminZawodowy\obj\Debug\EgzaminZawodowy.exe
+D:\Github\Szkola\2024 2025\10092024\EgzaminZawodowy\EgzaminZawodowy\obj\Debug\EgzaminZawodowy.pdb

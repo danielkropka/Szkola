@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\bin\Debug\GenderApp.exe.config
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\bin\Debug\GenderApp.exe
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\bin\Debug\GenderApp.pdb
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp.g.resources
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp.exe
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GenderApp.pdb
+D:\Github\Szkola\2024 2025\12092024\GenderApp\GenderApp\obj\Debug\GeneratedInternalTypeHelper.g.cs

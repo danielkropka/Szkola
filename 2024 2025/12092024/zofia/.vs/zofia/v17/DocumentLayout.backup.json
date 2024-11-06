@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\12092024\\zofia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1CB46D-21A9-4240-AB08-BF3CB956B348}|zofia\\zofia\\zofia.csproj|d:\\github\\szkola\\2024 2025\\12092024\\zofia\\zofia\\zofia\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1CB46D-21A9-4240-AB08-BF3CB956B348}|zofia\\zofia\\zofia.csproj|solutionrelative:zofia\\zofia\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1CB46D-21A9-4240-AB08-BF3CB956B348}|zofia\\zofia\\zofia.csproj|d:\\github\\szkola\\2024 2025\\12092024\\zofia\\zofia\\zofia\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{0D1CB46D-21A9-4240-AB08-BF3CB956B348}|zofia\\zofia\\zofia.csproj|solutionrelative:zofia\\zofia\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\12092024\\zofia\\zofia\\zofia\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "zofia\\zofia\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\12092024\\zofia\\zofia\\zofia\\MainPage.xaml.cs",
+              "RelativeToolTip": "zofia\\zofia\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:17:04.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\12092024\\zofia\\zofia\\zofia\\MainPage.xaml",
+              "RelativeDocumentMoniker": "zofia\\zofia\\MainPage.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\12092024\\zofia\\zofia\\zofia\\MainPage.xaml",
+              "RelativeToolTip": "zofia\\zofia\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-12T06:17:00.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

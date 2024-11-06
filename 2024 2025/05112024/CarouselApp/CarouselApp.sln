@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselApp.Android", "CarouselApp\CarouselApp.Android\CarouselApp.Android.csproj", "{299C5E7E-9594-474B-B14A-668C9CF0392A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselApp", "CarouselApp\CarouselApp\CarouselApp.csproj", "{F5CFB5FB-8F99-44CA-A546-981E92BA614A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299C5E7E-9594-474B-B14A-668C9CF0392A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299C5E7E-9594-474B-B14A-668C9CF0392A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299C5E7E-9594-474B-B14A-668C9CF0392A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{299C5E7E-9594-474B-B14A-668C9CF0392A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299C5E7E-9594-474B-B14A-668C9CF0392A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299C5E7E-9594-474B-B14A-668C9CF0392A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F5CFB5FB-8F99-44CA-A546-981E92BA614A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CFB5FB-8F99-44CA-A546-981E92BA614A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CFB5FB-8F99-44CA-A546-981E92BA614A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F5CFB5FB-8F99-44CA-A546-981E92BA614A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CFB5FB-8F99-44CA-A546-981E92BA614A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CFB5FB-8F99-44CA-A546-981E92BA614A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E32BE7DE-5081-46E1-9AA2-AF2C00E90C3B}
+	EndGlobalSection
+EndGlobal

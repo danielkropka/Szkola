@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\22102024\\CubeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{727AAF1D-44B7-4E35-8D33-D8138D645DFC}|CubeApp\\CubeApp.csproj|d:\\github\\szkola\\2024 2025\\22102024\\cubeapp\\cubeapp\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727AAF1D-44B7-4E35-8D33-D8138D645DFC}|CubeApp\\CubeApp.csproj|solutionrelative:cubeapp\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727AAF1D-44B7-4E35-8D33-D8138D645DFC}|CubeApp\\CubeApp.csproj|d:\\github\\szkola\\2024 2025\\22102024\\cubeapp\\cubeapp\\classes\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727AAF1D-44B7-4E35-8D33-D8138D645DFC}|CubeApp\\CubeApp.csproj|solutionrelative:cubeapp\\classes\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{727AAF1D-44B7-4E35-8D33-D8138D645DFC}|CubeApp\\CubeApp.csproj|d:\\github\\szkola\\2024 2025\\22102024\\cubeapp\\cubeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{727AAF1D-44B7-4E35-8D33-D8138D645DFC}|CubeApp\\CubeApp.csproj|solutionrelative:cubeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\22102024\\CubeApp\\CubeApp\\Classes\\Game.cs",
+              "RelativeDocumentMoniker": "CubeApp\\Classes\\Game.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\22102024\\CubeApp\\CubeApp\\Classes\\Game.cs",
+              "RelativeToolTip": "CubeApp\\Classes\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:57:30.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\22102024\\CubeApp\\CubeApp\\Classes\\Cube.cs",
+              "RelativeDocumentMoniker": "CubeApp\\Classes\\Cube.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\22102024\\CubeApp\\CubeApp\\Classes\\Cube.cs",
+              "RelativeToolTip": "CubeApp\\Classes\\Cube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:55:26.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\22102024\\CubeApp\\CubeApp\\Program.cs",
+              "RelativeDocumentMoniker": "CubeApp\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\22102024\\CubeApp\\CubeApp\\Program.cs",
+              "RelativeToolTip": "CubeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:50:08.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

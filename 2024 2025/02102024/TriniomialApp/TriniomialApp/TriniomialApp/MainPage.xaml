@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TriniomialApp.MainPage"
+             xmlns:tab="clr-namespace:TriniomialApp.Pages">
+    <TabbedPage.Children>
+        <tab:abcTab Title="abc" />
+        <tab:deltaAndSolutionsTab Title="Δ i roz." />
+        <tab:ApexTab Title="W" />
+        <tab:canonicalTab Title="postać kanoniczna" />
+        <tab:productTab Title="postać iloczynowa" />
+    </TabbedPage.Children>
+
+</TabbedPage>

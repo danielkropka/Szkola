@@ -1,0 +1,7 @@
+D:\Github\Szkola\2024 2025\03092024\StarGame\StarGame\bin\Debug\StarGame.exe.config
+D:\Github\Szkola\2024 2025\03092024\StarGame\StarGame\bin\Debug\StarGame.exe
+D:\Github\Szkola\2024 2025\03092024\StarGame\StarGame\bin\Debug\StarGame.pdb
+D:\Github\Szkola\2024 2025\03092024\StarGame\StarGame\obj\Debug\StarGame.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\03092024\StarGame\StarGame\obj\Debug\StarGame.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\03092024\StarGame\StarGame\obj\Debug\StarGame.exe
+D:\Github\Szkola\2024 2025\03092024\StarGame\StarGame\obj\Debug\StarGame.pdb

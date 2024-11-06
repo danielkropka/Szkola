@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TriniomialApp.Pages.abcTab">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="A" VerticalOptions="Center"/>
+                <Entry x:Name="AEntry" TextChanged="Entry_TextChanged" WidthRequest="100" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="B" VerticalOptions="Center"/>
+                <Entry x:Name="BEntry" TextChanged="Entry_TextChanged" WidthRequest="100" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="C" VerticalOptions="Center" />
+                <Entry x:Name="CEntry" TextChanged="Entry_TextChanged" WidthRequest="100" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

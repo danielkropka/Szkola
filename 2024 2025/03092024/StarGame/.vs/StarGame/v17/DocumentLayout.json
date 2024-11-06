@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\03092024\\StarGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F34DC251-B9A4-4233-AF69-FEE45448DCFD}|StarGame\\StarGame.csproj|d:\\github\\szkola\\2024 2025\\03092024\\stargame\\stargame\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34DC251-B9A4-4233-AF69-FEE45448DCFD}|StarGame\\StarGame.csproj|solutionrelative:stargame\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34DC251-B9A4-4233-AF69-FEE45448DCFD}|StarGame\\StarGame.csproj|D:\\Github\\Szkola\\2024 2025\\03092024\\StarGame\\stargame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34DC251-B9A4-4233-AF69-FEE45448DCFD}|StarGame\\StarGame.csproj|solutionrelative:stargame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34DC251-B9A4-4233-AF69-FEE45448DCFD}|StarGame\\StarGame.csproj|d:\\github\\szkola\\2024 2025\\03092024\\stargame\\stargame\\classes\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34DC251-B9A4-4233-AF69-FEE45448DCFD}|StarGame\\StarGame.csproj|solutionrelative:stargame\\classes\\star.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\03092024\\StarGame\\StarGame\\Program.cs",
+              "RelativeDocumentMoniker": "StarGame\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\03092024\\StarGame\\StarGame\\Program.cs",
+              "RelativeToolTip": "StarGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:39:11.548Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\03092024\\StarGame\\StarGame\\Classes\\Game.cs",
+              "RelativeDocumentMoniker": "StarGame\\Classes\\Game.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\03092024\\StarGame\\StarGame\\Classes\\Game.cs",
+              "RelativeToolTip": "StarGame\\Classes\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:27:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Star.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\03092024\\StarGame\\StarGame\\Classes\\Star.cs",
+              "RelativeDocumentMoniker": "StarGame\\Classes\\Star.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\03092024\\StarGame\\StarGame\\Classes\\Star.cs",
+              "RelativeToolTip": "StarGame\\Classes\\Star.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:42:20.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

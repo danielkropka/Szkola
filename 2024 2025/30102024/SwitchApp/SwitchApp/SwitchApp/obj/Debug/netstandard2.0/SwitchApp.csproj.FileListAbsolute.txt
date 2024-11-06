@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.deps.json
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.dll
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\ref\SwitchApp.dll
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.pdb
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.AssemblyInfoInputs.cache
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.AssemblyInfo.cs
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.sourcelink.json
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.dll
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\refint\SwitchApp.dll
+D:\Github\Szkola\2024 2025\30102024\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.pdb

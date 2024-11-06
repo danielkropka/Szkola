@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbedCalculatorApp.Android", "TabbedCalculatorApp\TabbedCalculatorApp.Android\TabbedCalculatorApp.Android.csproj", "{4CD7678C-469F-4F9B-8835-1ED2A3A6E355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbedCalculatorApp", "TabbedCalculatorApp\TabbedCalculatorApp\TabbedCalculatorApp.csproj", "{A431BE0E-D97A-4BFB-B04E-AA4E58BEB544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CD7678C-469F-4F9B-8835-1ED2A3A6E355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD7678C-469F-4F9B-8835-1ED2A3A6E355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD7678C-469F-4F9B-8835-1ED2A3A6E355}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4CD7678C-469F-4F9B-8835-1ED2A3A6E355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD7678C-469F-4F9B-8835-1ED2A3A6E355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD7678C-469F-4F9B-8835-1ED2A3A6E355}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A431BE0E-D97A-4BFB-B04E-AA4E58BEB544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A431BE0E-D97A-4BFB-B04E-AA4E58BEB544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A431BE0E-D97A-4BFB-B04E-AA4E58BEB544}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A431BE0E-D97A-4BFB-B04E-AA4E58BEB544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A431BE0E-D97A-4BFB-B04E-AA4E58BEB544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A431BE0E-D97A-4BFB-B04E-AA4E58BEB544}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACDEF16E-EB1E-4320-8D3E-4E53DAE18C65}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\10092024\\EgzaminZawodowy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61B700-894B-48DF-87A9-6FD6AE1EAA0B}|EgzaminZawodowy\\EgzaminZawodowy.csproj|d:\\github\\szkola\\2024 2025\\10092024\\egzaminzawodowy\\egzaminzawodowy\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61B700-894B-48DF-87A9-6FD6AE1EAA0B}|EgzaminZawodowy\\EgzaminZawodowy.csproj|solutionrelative:egzaminzawodowy\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E61B700-894B-48DF-87A9-6FD6AE1EAA0B}|EgzaminZawodowy\\EgzaminZawodowy.csproj|D:\\Github\\Szkola\\2024 2025\\10092024\\EgzaminZawodowy\\egzaminzawodowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E61B700-894B-48DF-87A9-6FD6AE1EAA0B}|EgzaminZawodowy\\EgzaminZawodowy.csproj|solutionrelative:egzaminzawodowy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\10092024\\EgzaminZawodowy\\EgzaminZawodowy\\Classes\\Game.cs",
+              "RelativeDocumentMoniker": "EgzaminZawodowy\\Classes\\Game.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\10092024\\EgzaminZawodowy\\EgzaminZawodowy\\Classes\\Game.cs",
+              "RelativeToolTip": "EgzaminZawodowy\\Classes\\Game.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:30:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\10092024\\EgzaminZawodowy\\EgzaminZawodowy\\Program.cs",
+              "RelativeDocumentMoniker": "EgzaminZawodowy\\Program.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\10092024\\EgzaminZawodowy\\EgzaminZawodowy\\Program.cs",
+              "RelativeToolTip": "EgzaminZawodowy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:09:06.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

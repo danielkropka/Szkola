@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TriniomialApp.Pages.deltaAndSolutionsTab">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Δ" VerticalOptions="Center"/>
+                <Entry x:Name="DeltaEntry" WidthRequest="100" IsEnabled="False" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="X1" VerticalOptions="Center"/>
+                <Entry x:Name="X1Entry" WidthRequest="100" IsEnabled="False" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="X2" VerticalOptions="Center" />
+                <Entry x:Name="X2Entry" WidthRequest="100" IsEnabled="False"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

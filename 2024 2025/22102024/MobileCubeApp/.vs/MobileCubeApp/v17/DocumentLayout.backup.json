@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\22102024\\MobileCubeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{541B5C0C-5046-4215-8CFF-A127C9944352}|MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj|d:\\github\\szkola\\2024 2025\\22102024\\mobilecubeapp\\mobilecubeapp\\mobilecubeapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541B5C0C-5046-4215-8CFF-A127C9944352}|MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj|solutionrelative:mobilecubeapp\\mobilecubeapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541B5C0C-5046-4215-8CFF-A127C9944352}|MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj|d:\\github\\szkola\\2024 2025\\22102024\\mobilecubeapp\\mobilecubeapp\\mobilecubeapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{541B5C0C-5046-4215-8CFF-A127C9944352}|MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj|solutionrelative:mobilecubeapp\\mobilecubeapp\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{541B5C0C-5046-4215-8CFF-A127C9944352}|MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj|d:\\github\\szkola\\2024 2025\\22102024\\mobilecubeapp\\mobilecubeapp\\mobilecubeapp\\mobilecubeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{541B5C0C-5046-4215-8CFF-A127C9944352}|MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj|solutionrelative:mobilecubeapp\\mobilecubeapp\\mobilecubeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MobileCubeApp.csproj",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\22102024\\MobileCubeApp\\MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj",
+              "RelativeDocumentMoniker": "MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\22102024\\MobileCubeApp\\MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj",
+              "RelativeToolTip": "MobileCubeApp\\MobileCubeApp\\MobileCubeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T08:18:41.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\22102024\\MobileCubeApp\\MobileCubeApp\\MobileCubeApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MobileCubeApp\\MobileCubeApp\\MainPage.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\22102024\\MobileCubeApp\\MobileCubeApp\\MobileCubeApp\\MainPage.xaml",
+              "RelativeToolTip": "MobileCubeApp\\MobileCubeApp\\MainPage.xaml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T08:05:25.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\22102024\\MobileCubeApp\\MobileCubeApp\\MobileCubeApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MobileCubeApp\\MobileCubeApp\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\22102024\\MobileCubeApp\\MobileCubeApp\\MobileCubeApp\\MainPage.xaml.cs*",
+              "RelativeToolTip": "MobileCubeApp\\MobileCubeApp\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:02:36.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

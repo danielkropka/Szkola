@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\bin\Debug\PolAngApp.exe.config
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\bin\Debug\PolAngApp.exe
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\bin\Debug\PolAngApp.pdb
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp.g.resources
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp.exe
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\PolAngApp.pdb
+D:\Github\Szkola\2024 2025\17092024\PolAngApp\PolAngApp\obj\Debug\GeneratedInternalTypeHelper.g.cs

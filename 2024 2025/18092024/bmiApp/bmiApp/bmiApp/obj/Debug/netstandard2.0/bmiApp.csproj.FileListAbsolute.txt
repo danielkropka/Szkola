@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\bin\Debug\netstandard2.0\bmiApp.deps.json
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\bin\Debug\netstandard2.0\bmiApp.dll
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\bin\Debug\netstandard2.0\ref\bmiApp.dll
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\bin\Debug\netstandard2.0\bmiApp.pdb
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\bmiApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\bmiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\bmiApp.AssemblyInfoInputs.cache
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\bmiApp.AssemblyInfo.cs
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\bmiApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\bmiApp.sourcelink.json
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\bmiApp.dll
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\refint\bmiApp.dll
+D:\Github\Szkola\2024 2025\18092024\bmiApp\bmiApp\bmiApp\obj\Debug\netstandard2.0\bmiApp.pdb

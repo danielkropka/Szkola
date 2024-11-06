@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\bin\Debug\PanDa.exe.config
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\bin\Debug\PanDa.exe
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\bin\Debug\PanDa.pdb
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa.g.resources
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa.exe
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\PanDa.pdb
+D:\Github\Szkola\2024 2025\24092024\PanDa\PanDa\obj\Debug\GeneratedInternalTypeHelper.g.cs

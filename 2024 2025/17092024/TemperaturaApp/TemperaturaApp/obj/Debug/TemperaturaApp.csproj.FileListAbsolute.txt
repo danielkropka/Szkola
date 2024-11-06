@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\bin\Debug\TemperaturaApp.exe.config
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\bin\Debug\TemperaturaApp.exe
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\bin\Debug\TemperaturaApp.pdb
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp.g.resources
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp.exe
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\TemperaturaApp.pdb
+D:\Github\Szkola\2024 2025\17092024\TemperaturaApp\TemperaturaApp\obj\Debug\GeneratedInternalTypeHelper.g.cs

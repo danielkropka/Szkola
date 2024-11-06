@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\30102024\\TrinomialNotifyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20143338-9E3B-4A86-811D-4414D253ACD0}|TrinomialNotifyApp\\TrinomialNotifyApp.csproj|d:\\github\\szkola\\2024 2025\\30102024\\trinomialnotifyapp\\trinomialnotifyapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20143338-9E3B-4A86-811D-4414D253ACD0}|TrinomialNotifyApp\\TrinomialNotifyApp.csproj|solutionrelative:trinomialnotifyapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20143338-9E3B-4A86-811D-4414D253ACD0}|TrinomialNotifyApp\\TrinomialNotifyApp.csproj|D:\\Github\\Szkola\\2024 2025\\30102024\\TrinomialNotifyApp\\trinomialnotifyapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20143338-9E3B-4A86-811D-4414D253ACD0}|TrinomialNotifyApp\\TrinomialNotifyApp.csproj|solutionrelative:trinomialnotifyapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\30102024\\TrinomialNotifyApp\\TrinomialNotifyApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TrinomialNotifyApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\30102024\\TrinomialNotifyApp\\TrinomialNotifyApp\\MainWindow.xaml",
+              "RelativeToolTip": "TrinomialNotifyApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T07:27:01.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\30102024\\TrinomialNotifyApp\\TrinomialNotifyApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TrinomialNotifyApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\30102024\\TrinomialNotifyApp\\TrinomialNotifyApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TrinomialNotifyApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAEwH8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T07:27:00.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

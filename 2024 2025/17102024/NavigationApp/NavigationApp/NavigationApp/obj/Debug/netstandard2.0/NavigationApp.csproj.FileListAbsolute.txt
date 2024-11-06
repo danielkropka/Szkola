@@ -1,0 +1,17 @@
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\bin\Debug\netstandard2.0\NavigationApp.deps.json
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\bin\Debug\netstandard2.0\NavigationApp.dll
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\bin\Debug\netstandard2.0\ref\NavigationApp.dll
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\bin\Debug\netstandard2.0\NavigationApp.pdb
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.AssemblyInfoInputs.cache
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.AssemblyInfo.cs
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.sourcelink.json
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.dll
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\refint\NavigationApp.dll
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\NavigationApp.pdb
+D:\Github\Szkola\2024 2025\17052024\NavigationApp\NavigationApp\NavigationApp\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs

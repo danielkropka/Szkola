@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\bin\Debug\PersonNotifyProperty.exe.config
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\bin\Debug\PersonNotifyProperty.exe
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\bin\Debug\PersonNotifyProperty.pdb
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty.g.resources
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty.exe
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\PersonNotifyProperty.pdb
+D:\Github\Szkola\2024 2025\29102024\PersonNotifyProperty\PersonNotifyProperty\obj\Debug\GeneratedInternalTypeHelper.g.cs

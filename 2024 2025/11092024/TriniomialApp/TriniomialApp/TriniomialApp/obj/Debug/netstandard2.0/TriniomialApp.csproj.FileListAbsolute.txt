@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\bin\Debug\netstandard2.0\TriniomialApp.deps.json
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\bin\Debug\netstandard2.0\TriniomialApp.dll
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\bin\Debug\netstandard2.0\ref\TriniomialApp.dll
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\bin\Debug\netstandard2.0\TriniomialApp.pdb
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\TriniomialApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\TriniomialApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\TriniomialApp.AssemblyInfoInputs.cache
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\TriniomialApp.AssemblyInfo.cs
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\TriniomialApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\TriniomialApp.sourcelink.json
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\TriniomialApp.dll
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\refint\TriniomialApp.dll
+D:\Github\Szkola\2024 2025\11092024\TriniomialApp\TriniomialApp\TriniomialApp\obj\Debug\netstandard2.0\TriniomialApp.pdb

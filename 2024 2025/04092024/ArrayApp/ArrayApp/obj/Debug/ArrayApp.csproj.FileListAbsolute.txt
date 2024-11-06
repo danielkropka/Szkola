@@ -1,0 +1,7 @@
+D:\Github\Szkola\2024 2025\04092024\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe.config
+D:\Github\Szkola\2024 2025\04092024\ArrayApp\ArrayApp\bin\Debug\ArrayApp.exe
+D:\Github\Szkola\2024 2025\04092024\ArrayApp\ArrayApp\bin\Debug\ArrayApp.pdb
+D:\Github\Szkola\2024 2025\04092024\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\04092024\ArrayApp\ArrayApp\obj\Debug\ArrayApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\04092024\ArrayApp\ArrayApp\obj\Debug\ArrayApp.exe
+D:\Github\Szkola\2024 2025\04092024\ArrayApp\ArrayApp\obj\Debug\ArrayApp.pdb

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22FCB6D5-B97D-458E-AEDF-E7251359434E}|Szop\\Szop\\Szop.csproj|d:\\github\\szkola\\2024 2025\\23102024\\szop\\szop\\szop\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FCB6D5-B97D-458E-AEDF-E7251359434E}|Szop\\Szop\\Szop.csproj|solutionrelative:szop\\szop\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FCB6D5-B97D-458E-AEDF-E7251359434E}|Szop\\Szop\\Szop.csproj|d:\\github\\szkola\\2024 2025\\23102024\\szop\\szop\\szop\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{22FCB6D5-B97D-458E-AEDF-E7251359434E}|Szop\\Szop\\Szop.csproj|solutionrelative:szop\\szop\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FCB6D5-B97D-458E-AEDF-E7251359434E}|Szop\\Szop\\Szop.csproj|d:\\github\\szkola\\2024 2025\\23102024\\szop\\szop\\szop\\pages\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22FCB6D5-B97D-458E-AEDF-E7251359434E}|Szop\\Szop\\Szop.csproj|solutionrelative:szop\\szop\\pages\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22FCB6D5-B97D-458E-AEDF-E7251359434E}|Szop\\Szop\\Szop.csproj|d:\\github\\szkola\\2024 2025\\23102024\\szop\\szop\\szop\\pages\\resultpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{22FCB6D5-B97D-458E-AEDF-E7251359434E}|Szop\\Szop\\Szop.csproj|solutionrelative:szop\\szop\\pages\\resultpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\Szop\\Szop\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Szop\\Szop\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\Szop\\Szop\\MainPage.xaml.cs*",
+              "RelativeToolTip": "Szop\\Szop\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:23:12.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\Szop\\Szop\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Szop\\Szop\\MainPage.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\Szop\\Szop\\MainPage.xaml",
+              "RelativeToolTip": "Szop\\Szop\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T06:18:14.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultPage.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\Szop\\Szop\\Pages\\ResultPage.xaml.cs",
+              "RelativeDocumentMoniker": "Szop\\Szop\\Pages\\ResultPage.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\Szop\\Szop\\Pages\\ResultPage.xaml.cs",
+              "RelativeToolTip": "Szop\\Szop\\Pages\\ResultPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:17:07.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultPage.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\Szop\\Szop\\Pages\\ResultPage.xaml",
+              "RelativeDocumentMoniker": "Szop\\Szop\\Pages\\ResultPage.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\23102024\\Szop\\Szop\\Szop\\Pages\\ResultPage.xaml",
+              "RelativeToolTip": "Szop\\Szop\\Pages\\ResultPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-23T06:17:01.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

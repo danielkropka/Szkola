@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heartattack", "heartattack\heartattack.csproj", "{CA4D3911-ADB1-40FE-88D7-0BC5F01EB8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4D3911-ADB1-40FE-88D7-0BC5F01EB8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4D3911-ADB1-40FE-88D7-0BC5F01EB8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4D3911-ADB1-40FE-88D7-0BC5F01EB8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4D3911-ADB1-40FE-88D7-0BC5F01EB8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C6DDB4-B495-4B45-9F47-2C944DEE90F3}
+	EndGlobalSection
+EndGlobal

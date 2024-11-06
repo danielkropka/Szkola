@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TriniomialApp.Pages.canonicalTab">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Postać kanoniczna" HorizontalOptions="Center" FontSize="30"/>
+            <StackLayout HorizontalOptions="Center">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Kanoniczna" VerticalOptions="Center"/>
+                    <Entry x:Name="CanonicalEntry" WidthRequest="300" IsEnabled="False" />
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

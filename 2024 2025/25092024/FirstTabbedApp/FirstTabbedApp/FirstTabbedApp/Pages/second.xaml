@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstTabbedApp.Pages.second">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <StackLayout HorizontalOptions="Center" Orientation="Horizontal" VerticalOptions="Center">
+                    <Label Text="A" VerticalOptions="Center"/>
+                    <Entry x:Name="AEntry" WidthRequest="100" />
+                </StackLayout>
+                <StackLayout Grid.Row="1" HorizontalOptions="Center" Orientation="Horizontal" VerticalOptions="Center">
+                    <Label Text="B" VerticalOptions="Center"/>
+                    <Entry x:Name="BEntry" WidthRequest="100" />
+                </StackLayout>
+                <Button Grid.Row="2" Text="-" HorizontalOptions="Center" VerticalOptions="Center" Clicked="Button_Clicked" />
+                <StackLayout Grid.Row="3" Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="Center">
+                    <Label Text="Wynik" VerticalOptions="Center"/>
+                    <Entry x:Name="ResultEntry" IsEnabled="False" WidthRequest="100" />
+                </StackLayout>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

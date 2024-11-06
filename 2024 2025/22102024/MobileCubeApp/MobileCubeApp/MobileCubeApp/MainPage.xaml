@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileCubeApp.MainPage">
+
+    <StackLayout BackgroundColor="Beige">
+
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="6" CornerRadius="0">
+                <Label Text="Kości" TextColor="White" FontSize="32" Margin="10, 0, 0, 0"/>
+            </Frame>
+            <StackLayout Spacing="25">
+                <Label Text="Gra w kości. Autor 00000000000" FontSize="26" TextColor="White" Padding="10, 0, 0, 0" BackgroundColor="Brown" />
+                <Button Text="Rzuć kośćmi" VerticalOptions="Center" HorizontalOptions="Center" BackgroundColor="Chocolate" CornerRadius="10" Margin="0, 0, 0, 20" Clicked="DrawButton_Clicked"/>
+            </StackLayout>
+        </StackLayout>
+        <StackLayout BackgroundColor="White">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" HeightRequest="100">
+                <Image x:Name="FirstCubeImage" Source="a0.jpg" WidthRequest="60" />
+                <Image x:Name="SecondCubeImage" Source="a0.jpg" WidthRequest="60" />
+                <Image x:Name="ThirdCubeImage" Source="a0.jpg" WidthRequest="60" />
+                <Image x:Name="FourthCubeImage" Source="a0.jpg" WidthRequest="60" />
+                <Image x:Name="FifthCubeImage" Source="a0.jpg" WidthRequest="60" />
+            </StackLayout>
+        </StackLayout>
+        <StackLayout Spacing="30">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Label Text="Wynik tego losowania:" FontSize="26" />
+                <Label x:Name="DrawResultLabel" Text="0" FontSize="26" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Label Text="Wynik gry:" FontSize="26" />
+                <Label x:Name="GameResultLabel" Text="0" FontSize="26" />
+            </StackLayout>
+            <Button Text="Resetuj wynik" BackgroundColor="Chocolate" CornerRadius="10" HorizontalOptions="Center" Clicked="ResetButton_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

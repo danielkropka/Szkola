@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\bin\Debug\netstandard2.0\ExamApp.deps.json
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\bin\Debug\netstandard2.0\ExamApp.dll
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\bin\Debug\netstandard2.0\ref\ExamApp.dll
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\bin\Debug\netstandard2.0\ExamApp.pdb
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\ExamApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\ExamApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\ExamApp.AssemblyInfoInputs.cache
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\ExamApp.AssemblyInfo.cs
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\ExamApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\ExamApp.sourcelink.json
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\ExamApp.dll
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\refint\ExamApp.dll
+D:\Github\Szkola\2024 2025\05112024\ExamApp\ExamApp\ExamApp\obj\Debug\netstandard2.0\ExamApp.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarouselApp.MainPage">
+
+    <CarouselPage.Children>
+        <ContentPage Title="Brytyjczyk">
+            <Image Source="brytyjczyk" />
+        </ContentPage>
+        <ContentPage Title="Pers">
+            <Image Source="pers" />
+        </ContentPage>
+        <ContentPage Title="Europejski">
+            <Image Source="europejski" />
+        </ContentPage>
+        <ContentPage Title="Mainecoon">
+            <Image Source="mainecoon" />
+        </ContentPage>
+    </CarouselPage.Children>
+
+</CarouselPage>

@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\bin\Debug\netstandard2.0\zofia.deps.json
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\bin\Debug\netstandard2.0\zofia.dll
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\bin\Debug\netstandard2.0\ref\zofia.dll
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\bin\Debug\netstandard2.0\zofia.pdb
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\zofia.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\zofia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\zofia.AssemblyInfoInputs.cache
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\zofia.AssemblyInfo.cs
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\zofia.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\zofia.sourcelink.json
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\zofia.dll
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\refint\zofia.dll
+D:\Github\Szkola\2024 2025\12092024\zofia\zofia\zofia\obj\Debug\netstandard2.0\zofia.pdb

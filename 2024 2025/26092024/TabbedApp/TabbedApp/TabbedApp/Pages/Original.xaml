@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabbedApp.Pages.Original">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <StackLayout HorizontalOptions="Center">
+                <Label Text="Imię" FontSize="24" />
+                <Entry x:Name="OriginalEntry" WidthRequest="250" FontSize="24" TextChanged="Entry_TextChanged"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

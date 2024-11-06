@@ -1,0 +1,7 @@
+D:\Github\Szkola\2024 2025\24102024\ExamConsoleApp\ExamConsoleApp\bin\Debug\ExamConsoleApp.exe.config
+D:\Github\Szkola\2024 2025\24102024\ExamConsoleApp\ExamConsoleApp\bin\Debug\ExamConsoleApp.exe
+D:\Github\Szkola\2024 2025\24102024\ExamConsoleApp\ExamConsoleApp\bin\Debug\ExamConsoleApp.pdb
+D:\Github\Szkola\2024 2025\24102024\ExamConsoleApp\ExamConsoleApp\obj\Debug\ExamConsoleApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\24102024\ExamConsoleApp\ExamConsoleApp\obj\Debug\ExamConsoleApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\24102024\ExamConsoleApp\ExamConsoleApp\obj\Debug\ExamConsoleApp.exe
+D:\Github\Szkola\2024 2025\24102024\ExamConsoleApp\ExamConsoleApp\obj\Debug\ExamConsoleApp.pdb

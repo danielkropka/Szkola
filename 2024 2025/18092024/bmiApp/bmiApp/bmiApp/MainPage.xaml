@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="bmiApp.MainPage">
+    <ContentPage.Resources>
+        <Style TargetType="Label" x:Key="LabelTitleStyle">
+            <Setter Property="FontSize" Value="50" />
+            <Setter Property="HorizontalTextAlignment" Value="Center" />
+            <Setter Property="Margin" Value="0, 20, 0, 0" />
+            <Setter Property="TextColor" Value="Black" />
+            <Setter Property="BackgroundColor" Value="CadetBlue" />
+        </Style>
+        <Style TargetType="Label" x:Key="LabelBMIStyle">
+            <Setter Property="FontSize" Value="33" />
+            <Setter Property="TextColor" Value="Black" />
+            <Setter Property="HorizontalTextAlignment" Value="Center" />
+            <Setter Property="VerticalTextAlignment" Value="Center" />
+            <Setter Property="BackgroundColor" Value="LightBlue" />
+        </Style>
+    </ContentPage.Resources>
+    <StackLayout Spacing="1">
+        <Label Text="TWOJE BMI" Style="{StaticResource Key=LabelTitleStyle}" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Label Grid.RowSpan="2" Text="BMI" Style="{StaticResource Key=LabelBMIStyle}" />
+            <StackLayout Orientation="Horizontal" Grid.Column="1">
+                <Label Text="Wzrost" VerticalTextAlignment="Center" TextColor="Black" />
+                <Entry x:Name="HeightEntry" BackgroundColor="LightGray" HorizontalOptions="EndAndExpand" WidthRequest="75" Keyboard="Numeric"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" Grid.Column="1" Grid.Row="1">
+                <Label Text="Waga" VerticalTextAlignment="Center" TextColor="Black" />
+                <Entry x:Name="WeightEntry" BackgroundColor="LightGray" HorizontalOptions="EndAndExpand" WidthRequest="75" Keyboard="Numeric" />
+            </StackLayout>
+            <Label x:Name="ResultBMI" Grid.Column="2" Grid.RowSpan="2" Text="Wynik" Style="{StaticResource Key=LabelBMIStyle}"/>
+        </Grid>
+        <Button BackgroundColor="CadetBlue" Text="OBLICZ" FontSize="30" Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

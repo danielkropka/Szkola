@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmiApp.Android", "bmiApp\bmiApp.Android\bmiApp.Android.csproj", "{A999AFE2-8DB0-482F-B75F-D2955E0F99EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bmiApp", "bmiApp\bmiApp\bmiApp.csproj", "{87726F67-BF5D-4903-A421-EE3CFACABAE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A999AFE2-8DB0-482F-B75F-D2955E0F99EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A999AFE2-8DB0-482F-B75F-D2955E0F99EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A999AFE2-8DB0-482F-B75F-D2955E0F99EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A999AFE2-8DB0-482F-B75F-D2955E0F99EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A999AFE2-8DB0-482F-B75F-D2955E0F99EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A999AFE2-8DB0-482F-B75F-D2955E0F99EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{87726F67-BF5D-4903-A421-EE3CFACABAE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87726F67-BF5D-4903-A421-EE3CFACABAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87726F67-BF5D-4903-A421-EE3CFACABAE5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{87726F67-BF5D-4903-A421-EE3CFACABAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87726F67-BF5D-4903-A421-EE3CFACABAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87726F67-BF5D-4903-A421-EE3CFACABAE5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA132135-E6B2-415A-875E-ED5F3D33ECE0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\bin\Debug\SzczekSzczek.exe.config
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\bin\Debug\SzczekSzczek.exe
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\bin\Debug\SzczekSzczek.pdb
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\MainWindow.g.cs
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\App.g.cs
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek_MarkupCompile.cache
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek_MarkupCompile.lref
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\MainWindow.baml
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek.g.resources
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek.Properties.Resources.resources
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek.csproj.GenerateResource.cache
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek.exe
+D:\Github\Szkola\2024 2025\05112024\SzczekSzczek\SzczekSzczek\obj\Debug\SzczekSzczek.pdb

@@ -1,0 +1,16 @@
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\bin\Debug\netstandard2.0\CarouselApp.deps.json
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\bin\Debug\netstandard2.0\CarouselApp.dll
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\bin\Debug\netstandard2.0\ref\CarouselApp.dll
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\bin\Debug\netstandard2.0\CarouselApp.pdb
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.AssemblyInfoInputs.cache
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.AssemblyInfo.cs
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.sourcelink.json
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.dll
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\refint\CarouselApp.dll
+D:\Github\Szkola\2024 2025\05112024\CarouselApp\CarouselApp\CarouselApp\obj\Debug\netstandard2.0\CarouselApp.pdb

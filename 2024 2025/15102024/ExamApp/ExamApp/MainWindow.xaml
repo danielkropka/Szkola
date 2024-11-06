@@ -1,0 +1,50 @@
+﻿<Window x:Class="ExamApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="1300">
+    <Grid Background="SeaGreen">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="950"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="PreviousRecordButton" HorizontalAlignment="Center" VerticalAlignment="Center" Height="70" Click="PreviousRecordButton_Click">
+            <Image Source="Images/arrow_left.png" />
+        </Button>
+        <StackPanel Grid.Column="1">
+                <StackPanel Orientation="Horizontal">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition Height="20" />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Image Source="Images/record.png" Width="190" HorizontalAlignment="Center" />
+                        <Grid Grid.Row="2" Width="300" HorizontalAlignment="Center">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition />
+                                <ColumnDefinition/>
+                            </Grid.ColumnDefinitions>
+                            <Label x:Name="NumberOfDownloads" Content="1212121212" Foreground="#61D918" FontSize="20" />
+                            <Button Grid.Column="2" Content="Pobierz" Width="90" FontWeight="Bold" Background="#61d918" FontSize="20" Click="DownloadButton_Click"/>
+                        </Grid>
+                    </Grid>
+                    <StackPanel>
+                        <Label x:Name="NameOfArtist" Content="Gorilazz" FontSize="50" Foreground="White" />
+                        <Label x:Name="NameOfAlbum" Content='"The Black Parade"' FontSize="30" Foreground="White" FontStyle="Italic" />
+                        <StackPanel Orientation="Horizontal">
+                            <Label x:Name="CountOfSongs" Content="14 utworów" Foreground="#61D918" FontSize="20"/>
+                            <Label x:Name="YearOfRelease" Content="2006" Foreground="#61D918" FontSize="20" Width="100" HorizontalContentAlignment="Center"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+        </StackPanel>
+        <Button Grid.Column="2" x:Name="NextRecordButton" HorizontalAlignment="Center" VerticalAlignment="Center" Height="70" Click="NextRecordButton_Click">
+            <Image Source="Images/arrow_right.png" />
+        </Button>
+    </Grid>
+</Window>

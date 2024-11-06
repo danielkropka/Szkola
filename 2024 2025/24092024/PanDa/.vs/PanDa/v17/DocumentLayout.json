@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AE896-C39D-4745-B141-6E6020E3D297}|PanDa\\PanDa.csproj|D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\panda\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F3AE896-C39D-4745-B141-6E6020E3D297}|PanDa\\PanDa.csproj|solutionrelative:panda\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AE896-C39D-4745-B141-6E6020E3D297}|PanDa\\PanDa.csproj|d:\\github\\szkola\\2024 2025\\24092024\\panda\\panda\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3AE896-C39D-4745-B141-6E6020E3D297}|PanDa\\PanDa.csproj|solutionrelative:panda\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danie\\AppData\\Local\\Temp\\.vsdbgsrc\\47b7539c6b0d3d034f20d33921dd3f7f5d4802d411ee3150c27f3e5eaf259242\\Int32.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3AE896-C39D-4745-B141-6E6020E3D297}|PanDa\\PanDa.csproj|D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\panda\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5F3AE896-C39D-4745-B141-6E6020E3D297}|PanDa\\PanDa.csproj|solutionrelative:panda\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Int32.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\AppData\\Local\\Temp\\.vsdbgsrc\\47b7539c6b0d3d034f20d33921dd3f7f5d4802d411ee3150c27f3e5eaf259242\\Int32.cs",
+              "ToolTip": "C:\\Users\\danie\\AppData\\Local\\Temp\\.vsdbgsrc\\47b7539c6b0d3d034f20d33921dd3f7f5d4802d411ee3150c27f3e5eaf259242\\Int32.cs[Tylko do odczytu]",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAqwKEAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:13:51.459Z",
+              "EditorCaption": "[Tylko do odczytu]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\PanDa\\App.xaml",
+              "RelativeDocumentMoniker": "PanDa\\App.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\PanDa\\App.xaml",
+              "RelativeToolTip": "PanDa\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T06:28:12.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\PanDa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PanDa\\MainWindow.xaml",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\PanDa\\MainWindow.xaml",
+              "RelativeToolTip": "PanDa\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T06:18:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\PanDa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PanDa\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Github\\Szkola\\2024 2025\\24092024\\PanDa\\PanDa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PanDa\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAawFcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:18:01.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

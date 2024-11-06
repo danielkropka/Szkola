@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zofia.MainPage">
+    <ContentPage.Resources>
+        <Style TargetType="Entry" x:Key="EntryStyle">
+            <Setter Property="TextColor" Value="Black"/>
+        </Style>
+    </ContentPage.Resources>
+    <StackLayout Margin="0, 70, 0, 0">
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+            <Label Text="Imię:" FontSize="30"/>
+            <Entry x:Name="EntryName" WidthRequest="70" Style="{StaticResource EntryStyle}"/>
+        </StackLayout>
+        <Button Text="OK" HorizontalOptions="Center" Clicked="HandleButtonClick"/>
+    </StackLayout>
+
+</ContentPage>

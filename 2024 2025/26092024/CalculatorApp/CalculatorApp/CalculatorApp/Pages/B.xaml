@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculatorApp.Pages.B">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <StackLayout Orientation="Horizontal" Margin="20">
+                <Label Text="b" FontSize="30" VerticalOptions="Start" />
+                <Entry x:Name="BEntry" WidthRequest="250" VerticalOptions="Start" TextChanged="BEntry_TextChanged"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

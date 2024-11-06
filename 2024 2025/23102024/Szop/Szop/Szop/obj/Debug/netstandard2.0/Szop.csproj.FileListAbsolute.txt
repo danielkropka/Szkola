@@ -1,0 +1,17 @@
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\bin\Debug\netstandard2.0\Szop.deps.json
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\bin\Debug\netstandard2.0\Szop.dll
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\bin\Debug\netstandard2.0\ref\Szop.dll
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\bin\Debug\netstandard2.0\Szop.pdb
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Szop.csproj.AssemblyReference.cache
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Szop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Szop.AssemblyInfoInputs.cache
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Szop.AssemblyInfo.cs
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Szop.csproj.CoreCompileInputs.cache
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Szop.sourcelink.json
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Szop.dll
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\refint\Szop.dll
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Szop.pdb
+D:\Github\Szkola\2024 2025\23102024\Szop\Szop\Szop\obj\Debug\netstandard2.0\Pages\ResultPage.xaml.g.cs
